@@ -1,0 +1,45 @@
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">CYCLONE Project</a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                {% for navbar_link in site.data.navbar_links %}
+                    {% if navbar_link.child_links %}
+                        {% if navbar_link.name == page.title %}
+                            <li class="dropdown active">
+                        {% else %}
+                            <li class="dropdown">
+                        {% endif %}
+
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ navbar_link.name }} <b class="caret"></b></a>
+
+                        <ul class="dropdown-menu">
+                            {% for child_link in navbar_link.child_links %}
+                                {% if child_link.divider %}
+                                    <li><a href="{{ child_link.url }}">{{ child_link.name }}</a></li>
+                                    <li class="divider"></li>
+                                {% else %}
+                                    <li><a href="{{ child_link.url }}">{{ child_link.name }}</a></li>
+                                {% endif %}
+                            {% endfor %}
+                        </ul>
+                    </li>
+                    {% elsif navbar_link.name == page.title %}
+                        <li class="active"><a href="{{ navbar_link.url }}">{{ navbar_link.name }}</a></li>
+                    {% else %}
+                        <li><a href="{{ navbar_link.url }}">{{ navbar_link.name }}</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</nav>

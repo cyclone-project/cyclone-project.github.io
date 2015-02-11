@@ -1,0 +1,11 @@
+- name: "Home"
+  url: "/"
+
+- name: "About"
+  url: "/about.html"
+
+- name: "Consortium"
+  url: "/consortium.html"
+
+- name: "Imprint"
+  url: "/imprint.html"

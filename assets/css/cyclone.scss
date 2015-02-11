@@ -1,0 +1,101 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
+$navbar-default-color:             #CCC;
+$navbar-default-bg:                #000;
+$navbar-default-border:            #000;
+
+// Navbar links
+$navbar-default-link-color:                #DDD !default;
+$navbar-default-link-hover-color:          lighten($navbar-default-link-color, 6.5%);
+$navbar-default-link-hover-bg:             transparent !default;
+$navbar-default-link-active-color:         lighten($navbar-default-link-color, 10%);
+$navbar-default-link-active-bg:            lighten($navbar-default-bg, 20%);
+$navbar-default-link-disabled-color:       #ccc !default;
+$navbar-default-link-disabled-bg:          transparent !default;
+
+// Navbar brand label
+$navbar-default-brand-color:               $navbar-default-link-color;
+$navbar-default-brand-hover-color:         lighten($navbar-default-brand-color, 10%);
+$navbar-default-brand-hover-bg:            transparent !default;
+
+// Navbar toggle
+$navbar-default-toggle-hover-bg:           #ddd !default;
+$navbar-default-toggle-icon-bar-bg:        #888 !default;
+$navbar-default-toggle-border-color:       #ddd !default;
+
+// import bootstrap
+@import "bootstrap";
+
+body {
+  position: relative;
+  padding-top: 50px;
+
+  .grey-bg {
+    background-color: #555;
+  }
+
+  .jumbotron {
+    background: url("/assets/images/clouds.jpg");
+    background-size: cover;
+    color: #FFF;
+    text-shadow: black 0.1em 0.1em 0.2em;
+  }
+
+  // Small jumbotron for page headers
+  .jumbotron-small {
+    @extend .jumbotron;
+
+    padding: ($jumbotron-padding / 2) ($jumbotron-padding / 4);
+    margin-bottom: ($jumbotron-padding / 2);
+
+    @media screen and (min-width: $screen-sm-min) {
+      h1, .h1 {
+        font-size: ($font-size-base * 3);
+      }
+    }
+  }
+
+  img.overview {
+    max-height: 40em;
+    max-width: 100%;
+  }
+
+  .partner_logo {
+    width: 100%;
+    text-align: center;
+
+    img {
+      max-width: 40%;
+      max-height: 15em;
+    }
+  }
+
+  .affix {
+    top: 60px;
+    width: 262.5px;
+  }
+
+  .before {
+    float: left;
+    position: relative;
+    top: -50px;
+    width: 0;
+    overflow: hidden;
+  }
+}
+
+body.Consortium {
+  .container {
+    h2 {
+      height: 0;
+      overflow: hidden;
+    }
+  }
+
+  .before {
+    top: -70px;
+  }
+}
