@@ -1,6 +1,5 @@
 ---
 title: Imprint
-layout: page
 ---
 
 ## Project management

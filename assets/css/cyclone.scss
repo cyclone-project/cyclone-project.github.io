@@ -26,12 +26,26 @@ $navbar-default-toggle-hover-bg:           #ddd !default;
 $navbar-default-toggle-icon-bar-bg:        #888 !default;
 $navbar-default-toggle-border-color:       #ddd !default;
 
+// Fonts
+$font-family-sans-serif:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-family-serif:       "Merriweather", Georgia, "Times New Roman", Times, serif;
+//** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
+$font-family-monospace:   "Source Code Pro", Menlo, Monaco, Consolas, "Courier New", monospace;
+$font-family-base:        $font-family-serif;
+
+$headings-font-family:    $font-family-sans-serif;
+$headings-font-weight:    700;
+
 // import bootstrap
 @import "bootstrap";
 
 body {
   position: relative;
   padding-top: 50px;
+
+  .navbar, #toc {
+    font-family: $font-family-sans-serif;
+  }
 
   .grey-bg {
     background-color: #555;
@@ -68,9 +82,13 @@ body {
     text-align: center;
 
     img {
-      max-width: 40%;
-      max-height: 15em;
+      max-width: 90%;
+      max-height: 14em;
     }
+  }
+
+  .pad {
+    padding: 5em;
   }
 
   .affix {
@@ -84,6 +102,24 @@ body {
     top: -50px;
     width: 0;
     overflow: hidden;
+  }
+
+  .news {
+    span {
+      font-family: $font-family-monospace;
+      font-size: 16px;
+      white-space: pre;
+
+      @media screen and (min-width: $screen-sm-min) {
+        display: inline-block;
+        vertical-align: top;
+        padding: 5px 1em 0 0;
+      }
+
+      @media screen and (max-width: $screen-xs-max){
+        display: block;
+      }
+    }
   }
 }
 

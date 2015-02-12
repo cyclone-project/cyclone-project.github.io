@@ -1,6 +1,5 @@
 ---
 title: Consortium
-layout: page
 ---
 ## Overview
 
@@ -37,7 +36,7 @@ Within the project, SixSq will lead one of the development work packages concent
 ## QSC
 
 <div class="partner_logo">
-<img src="/assets/images/logo_qsc.jpg">
+<img src="/assets/images/logo_qsc.jpg" style="width: 50%">
 </div>
 
 QSC AG based in Cologne, Germany, offers small and mid-size enterprises in Germany a wide range of ICT services. These services range from telephony, broadband wide area network, housing and hosting all the way to IT outsourcing and IT consulting.
