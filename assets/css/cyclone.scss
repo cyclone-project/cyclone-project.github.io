@@ -41,7 +41,11 @@ $headings-font-weight:    700;
 
 body {
   position: relative;
-  padding-top: 50px;
+  padding: 50px 0 0 0;
+
+  @media screen and (min-width: $screen-lg-min){
+    padding-bottom: 13em;
+  }
 
   .navbar, #toc {
     font-family: $font-family-sans-serif;
@@ -105,11 +109,16 @@ body {
   }
 
   .news {
-    span {
-      font-family: $font-family-monospace;
-      font-size: 16px;
-      white-space: pre;
+    .post_date {
+      @media screen and (min-width: $screen-lg-min) {
+        font-family: $font-family-monospace;
+        white-space: pre;
+      }
 
+      font-size: 16px;
+    }
+
+    .post_date, .disqus-comment-count {
       @media screen and (min-width: $screen-sm-min) {
         display: inline-block;
         vertical-align: top;
@@ -120,10 +129,55 @@ body {
         display: block;
       }
     }
+
+    .disqus-comment-count {
+      @media screen and (min-width: $screen-lg-min) {
+        margin-left: 0.5em;
+      }
+    }
+  }
+
+  .post-navigation {
+    background-color: #012e4d;
+    margin: -2em 0 0.5em 0;
+    padding: 1em 0;
+
+    a {
+      color: #c7cdd3;
+    }
+
+    .next {
+      text-align: right;
+    }
+
+    .previous {
+      text-align: left;
+    }
+  }
+
+  footer.footer {
+    @media screen and (max-width: $screen-md-max) {
+      position: relative;
+      margin-top: 1em;
+    }
+
+    text-align: center;
+    background-color: #000000;
+    color: $navbar-default-link-color;
+
+    .container {
+      padding: 1em 0;
+    }
+
+    img {
+      max-width: 90%;
+      max-height: 5em;
+      margin-top: 0;
+    }
   }
 }
 
-body.Consortium {
+body.consortium {
   .container {
     h2 {
       height: 0;
@@ -133,5 +187,13 @@ body.Consortium {
 
   .before {
     top: -70px;
+  }
+}
+
+body.news {
+  .container.news {
+    h2 {
+      display: none;
+    }
   }
 }

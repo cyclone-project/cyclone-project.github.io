@@ -21,17 +21,17 @@ The CYCLONE consortium consists of leading experts from diverse areas, such as t
 
 <div class="row">
 <div class="col-md-4">
-## CYCLONE for ASPs
+## For ASPs
 
 Key messages ...
 </div>
 <div class="col-md-4">
-## CYCLONE for Developers
+## For Developers
 
 Key messages ...
 </div>
 <div class="col-md-4">
-## CYCLONE for everyone
+## For everyone
 
 Key messages ...
 </div>

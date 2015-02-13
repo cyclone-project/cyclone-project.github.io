@@ -1,6 +1,9 @@
 - name: "Home"
   url: "/"
 
+- name: "News"
+  url: "/news.html"
+
 - name: "About"
   url: "/about.html"
 

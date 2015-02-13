@@ -9,15 +9,24 @@
     </div>
 </div>
 
-<div class="container">
-    <div class="row">
-        <div class="col-xs-6">
-            Newer
-        </div>
-        <div class="col-xs-6" style="text-align: right">
-            Older
+<div class="container-liquid post-navigation">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-6 next">
+                {% if page.next.url %}
+                <a href="{{page.next.url}}">&laquo;&nbsp;Next: {{page.next.title}}</a>
+                {% endif %}
+            </div>
+            <div class="col-xs-6 previous">
+                {% if page.previous.url %}
+                <a href="{{page.previous.url}}">Previous: {{page.previous.title}}&nbsp;&raquo;</a>
+                {% endif %}
+            </div>
         </div>
     </div>
+</div>
+
+<div class="container">
     <div class="row">
         <div class="col-md-9" role="main">
             {{ content }}
@@ -26,6 +35,7 @@
             <script type="text/javascript">
                 /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
                 var disqus_shortname = 'cycloneproject'; // required: replace example with your forum shortname
+                var disqus_identifier = '{{ page.id }}';
 
                 /* * * DON'T EDIT BELOW THIS LINE * * */
                 (function() {
@@ -37,7 +47,10 @@
             <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
         </div>
         <div class="col-md-3" role="complementary">
-            <h2>Related Posts</h2>
+            <h4>Newest Posts</h4>
+            {% for post in site.posts limit:3 %}
+                <h5>{{ post.date | date: "%e %b %y") }}<br/><a href="{{post.url}}">{{ post.title }}</a><small><span class="disqus-comment-count" data-disqus-identifier="{{ post.id }}"></span></small></h5>
+            {% endfor %}
         </div>
     </div>
 </div>
