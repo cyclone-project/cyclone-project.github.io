@@ -39,6 +39,8 @@ $headings-font-weight:    700;
 // import bootstrap
 @import "bootstrap";
 
+@import "bootstrap_sortable";
+
 body {
   position: relative;
   padding: 50px 0 0 0;
@@ -173,6 +175,20 @@ body {
       max-width: 90%;
       max-height: 5em;
       margin-top: 0;
+    }
+  }
+
+  table.table-deliverables {
+    tr td:nth-child(1), tr td:nth-child(2), thead th:nth-child(1), thead th:nth-child(2) {
+      text-align: center;
+    }
+
+    thead th:nth-child(3) {
+      text-align: left;
+    }
+
+    tr td:nth-child(4), thead th:nth-child(4) {
+      text-align: right;
     }
   }
 }

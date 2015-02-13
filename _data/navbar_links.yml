@@ -10,5 +10,8 @@
 - name: "Consortium"
   url: "/consortium.html"
 
+- name: "Deliverables"
+  url: "/deliverables.html"
+
 - name: "Imprint"
   url: "/imprint.html"

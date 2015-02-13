@@ -1,0 +1,33 @@
+{% include page_head.html %}
+
+{% include nav.html %}
+
+<div class="jumbotron">
+    <div class="container">
+        <h1>Deliverables</h1>
+    </div>
+</div>
+
+<div class="container">
+    <table class="table table-striped table-bordered table-deliverables sortable">
+        <thead>
+        <tr>
+            <th>ID</th>
+            <th>Work Package</th>
+            <th>Name</th>
+            <th>Expected date</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for deliverable in site.data.deliverables %}
+            <tr>
+                <td><strong>{{ deliverable.id }}</strong></td>
+                <td>{{ deliverable.wp }}</td>
+                <td>{{ deliverable.name }}</td>
+                <td data-dateformat="D MMMM YYYY">{{ deliverable.date | date: "%-d %B %Y"}}</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% include page_footer.html %}
