@@ -36,17 +36,27 @@ $font-family-base:        $font-family-serif;
 $headings-font-family:    $font-family-sans-serif;
 $headings-font-weight:    700;
 
+$footer-height: 150px;
+
 // import bootstrap
 @import "bootstrap";
 
 @import "bootstrap_sortable";
 
+html, body {
+  height: 100%;
+}
+
 body {
   position: relative;
-  padding: 50px 0 0 0;
+  // padding: 50px 0 0 0;
 
-  @media screen and (min-width: $screen-lg-min){
-    padding-bottom: 13em;
+  #wrap {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    /* Negative indent footer by it's height */
+    margin: 0 auto (-1 * $footer-height);
   }
 
   .navbar, #toc {
@@ -60,8 +70,10 @@ body {
   .jumbotron {
     background: url("/assets/images/clouds.jpg");
     background-size: cover;
+    background-position-y: 50px;
     color: #FFF;
     text-shadow: black 0.1em 0.1em 0.2em;
+    padding-top: 50px;
   }
 
   // Small jumbotron for page headers
@@ -157,15 +169,18 @@ body {
     }
   }
 
-  footer.footer {
-    @media screen and (max-width: $screen-md-max) {
-      position: relative;
-      margin-top: 1em;
-    }
+  #push {
+    height: $footer-height;
+    margin-top: 15px;
+  }
 
+  footer.footer {
+    height: $footer-height;
+    position: relative;
     text-align: center;
-    background-color: #000000;
     color: $navbar-default-link-color;
+    border-radius: 0;
+    margin-bottom: 0;
 
     .container {
       padding: 1em 0;
