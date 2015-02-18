@@ -1,10 +1,6 @@
 ---
 title: Consortium
 ---
-## Overview
-
-The CYCLONE consortium consists of leading experts from diverse areas, such as telecommunication, software and academia.
-
 ## Interoute SpA
 
 [![Interoute Logo](/assets/images/logo_interoute.jpg)](http://www.interoute.com)
@@ -59,7 +55,7 @@ as well as Cloud Computing.
 [![I2CAT Logo](/assets/images/logo_i2cat.jpg)](http://www.i2cat.net/en)
 {: class="partner_logo"}
 
-i2CAT is a non-profit technology and innovation centre which promotes R+D+i activities in Internet Technologies within the ICT industry. The centre stands up for a new model in a new conception of innovation: the collaboration between companies, public administration, the academic environment and  end-users. Thus, it eases an open innovation framework, characteristic of the Internet culture.
+i2CAT is a non-profit technology and innovation centre which promotes R+D+i activities in Internet Technologies within the ICT industry. i2CAT is focused on exploring and defining new ways to manage the Future Internet networks, enabling new functionalities and business models by means of integrating technologies like Cloud, Software Defined Networking (SDN) and Network Function Virtualization, and developing new pioneer Internet architectures based on new paradigms beyond TCP/IP.
 
 ## Universiteit van Amsterdam
 

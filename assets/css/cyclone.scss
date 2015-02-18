@@ -203,6 +203,8 @@ body.consortium {
     h2 {
       height: 0;
       overflow: hidden;
+      margin: 0;
+      padding: 0;
     }
 
     p.partner_logo a {
@@ -218,6 +220,30 @@ body.consortium {
       img[alt="QSC Logo"] {
         max-height: 10em;
       }
+    }
+
+    p.partner_logo {
+      @media screen and (min-width: $screen-xs-min) {
+        margin-top: 2em;
+      }
+
+      @media screen and (min-width: $screen-sm-min) {
+        margin-top: 3em;
+      }
+
+      @media screen and (min-width: $screen-md-min) {
+        margin-top: 4em;
+      }
+
+      @media screen and (min-width: $screen-lg-min) {
+        margin-top: 5em;
+      }
+
+      margin-bottom: 2em;
+    }
+
+    p.partner_logo:first-of-type {
+      margin-top: 1em;
     }
   }
 
