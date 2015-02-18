@@ -22,7 +22,7 @@ cloud neutral solutions for the fast moving IT sector.  One example is
 automated management of the cloud application lifecycle and is a core
 component of the CYCLONE solution.
 
-## QSC
+## QSC AG
 
 [![QSC Logo](/assets/images/logo_qsc.jpg)](http://www.qsc.de)
 {: class="partner_logo"}
@@ -64,9 +64,9 @@ i2CAT is a non-profit technology and innovation centre which promotes R+D+i acti
 
 The System and Network Engineering (SNE) Research group, embedded within the Computing, System architecture, and Programming Laboratory (CSP-Lab) in the Informatics Institute of University of Amsterdam, consists of about 20 researchers. The SNE group was a principal contractor within the EU funded DataTAG and EGEE-1 projects and currently is partner within the NextGRID, EGEE-2 and PHOSPHORUS projects.
 
-## Centre National de la Recherche Scientifique (CNRS)
+## Centre National de la Recherche Scientifique
 
-[![CNRS Logo](/assets/images/logo_cnrs.jpg)](http://www.uva.nl/en/home)
+[![CNRS Logo](/assets/images/logo_cnrs.jpg)](http://www.cnrs.fr)
 {: class="partner_logo"}
 
-The Centre National de la Recherche Scientifique (CNRSNational Centre for Scientific Research http://www.cnrs.fr) is a government-funded research organization under the administrative authority of the French research ministry.  CNRS, consisting of 1211 laboratories, is the largest fundamental research organization in Europe and is extensively involved in national, European, and international projects covering all fields of knowledge.
+The Centre National de la Recherche Scientifique (National Centre for Scientific Research) is a government-funded research organization under the administrative authority of the French research ministry.  CNRS, consisting of 1211 laboratories, is the largest fundamental research organization in Europe and is extensively involved in national, European, and international projects covering all fields of knowledge.
