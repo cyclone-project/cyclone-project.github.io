@@ -80,7 +80,7 @@ body {
   .jumbotron-small {
     @extend .jumbotron;
 
-    padding: ($jumbotron-padding / 2) ($jumbotron-padding / 4);
+    padding: 50px 0 ($jumbotron-padding / 2) 0;
     margin-bottom: ($jumbotron-padding / 2);
 
     @media screen and (min-width: $screen-sm-min) {
@@ -93,16 +93,6 @@ body {
   img.overview {
     max-height: 40em;
     max-width: 100%;
-  }
-
-  .partner_logo {
-    width: 100%;
-    text-align: center;
-
-    img {
-      max-width: 90%;
-      max-height: 14em;
-    }
   }
 
   .pad {
@@ -187,8 +177,8 @@ body {
     }
 
     img {
-      max-width: 90%;
-      max-height: 5em;
+      max-width: 90% !important;
+      max-height: 5em !important;
       margin-top: 0;
     }
   }
@@ -213,6 +203,21 @@ body.consortium {
     h2 {
       height: 0;
       overflow: hidden;
+    }
+
+    p.partner_logo a {
+      display: block;
+      width: 100%;
+      text-align: center;
+
+      img {
+        max-width: 90%;
+        max-height: 14em;
+      }
+
+      img[alt="QSC Logo"] {
+        max-height: 10em;
+      }
     }
   }
 

@@ -88,4 +88,11 @@ $(document.links).filter(function() {
 
 $(document).ready(function() {
     $('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h1,h2,h3,h4' });
+
+    $('.affix-nav').affix({
+        offset: {
+            top: 100,
+            bottom: 0
+        }
+    })
 });
