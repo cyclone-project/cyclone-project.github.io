@@ -12,12 +12,15 @@
 <div class="container-liquid post-navigation">
     <div class="container">
         <div class="row">
-            <div class="col-xs-6 next">
+            <div class="col-xs-5 next">
                 {% if page.next.url %}
                 <a href="{{page.next.url}}">&laquo;&nbsp;Next: {{page.next.title}}</a>
                 {% endif %}
             </div>
-            <div class="col-xs-6 previous">
+            <div class="col-xs-2 up">
+                <a href="/news.html">&uparrow;&nbsp;Up&nbsp;&uparrow;</a>
+            </div>
+            <div class="col-xs-5 previous">
                 {% if page.previous.url %}
                 <a href="{{page.previous.url}}">Previous: {{page.previous.title}}&nbsp;&raquo;</a>
                 {% endif %}

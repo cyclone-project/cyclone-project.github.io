@@ -30,3 +30,10 @@ Phone: +49 30 8353 58811
 ## Image sources
 
 CYCLONE photo courtesy of the [Earth Science and Remote Sensing Unit, NASA Johnson Space Center](http://eol.jsc.nasa.gov/). NASA photo ID: [ISS040-E-017316](http://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS040&roll=E&frame=017316).
+
+## Disclaimer
+
+* Disclaimer about TMG & RStV
+* Disclaimer about external links
+* Disclaimer about Cookies
+* Disclaimer about Google Analytics usage

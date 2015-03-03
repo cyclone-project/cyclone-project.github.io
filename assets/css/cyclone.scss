@@ -112,35 +112,6 @@ body {
     overflow: hidden;
   }
 
-  .news {
-    .post_date {
-      @media screen and (min-width: $screen-lg-min) {
-        font-family: $font-family-monospace;
-        white-space: pre;
-      }
-
-      font-size: 16px;
-    }
-
-    .post_date, .disqus-comment-count {
-      @media screen and (min-width: $screen-sm-min) {
-        display: inline-block;
-        vertical-align: top;
-        padding: 5px 1em 0 0;
-      }
-
-      @media screen and (max-width: $screen-xs-max){
-        display: block;
-      }
-    }
-
-    .disqus-comment-count {
-      @media screen and (min-width: $screen-lg-min) {
-        margin-left: 0.5em;
-      }
-    }
-  }
-
   .post-navigation {
     background-color: #012e4d;
     margin: -2em 0 0.5em 0;
@@ -156,6 +127,10 @@ body {
 
     .previous {
       text-align: left;
+    }
+
+    .up {
+      text-align: center;
     }
   }
 
@@ -196,11 +171,34 @@ body {
       text-align: right;
     }
   }
+
+  .news_header {
+    p {
+      margin: 0;
+    }
+
+    h3 {
+      margin-top: 0;
+      margin-bottom: 0.1em;
+    }
+  }
+
+  .news_body {
+    h4:first-child {
+      margin-top: 0;
+    }
+  }
+
+  .news_post {
+    border-bottom: 1px solid #DDD;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+  }
 }
 
 body.consortium {
   .container {
-    h2 {
+    h2, h3 {
       height: 0;
       overflow: hidden;
       margin: 0;
@@ -252,10 +250,13 @@ body.consortium {
   }
 }
 
-body.news {
-  .container.news {
-    h2 {
-      display: none;
-    }
+@media screen and (min-width: $screen-md-min) {
+  .equal/*, .equal > div[class*='col-'] */{
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex:1 0 auto;
   }
 }

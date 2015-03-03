@@ -6,7 +6,7 @@ title: Consortium
 [![Interoute Logo](/assets/images/logo_interoute.jpg)](http://www.interoute.com)
 {: class="partner_logo"}
 
-Interoute is the only next generation network operator covering the majority of the European Union with transatlantic capacity linked to North America's major telecoms hub. The Company is key to Europe’s Digital Supply Chain, serving more than 14,000 customers and supporting €1 billion of eCommerce transactions daily through its data centres alone. The network footprint covers 47,000 kilometres with backbone/long-haul connectivity to 78 cities.
+Interoute is the owner operator of Europe's largest network and a global cloud services platform, which encompasses 12 Data Centres and 13 Virtual Data Centres. Our full-service Unified ICT platform is serving Start Ups and international Enterprises, as well as European, North America, East & South Asian telco operators. The Virtual Data Center (VDC) is the Interoute’s top enterprise-grade and CloudStore service and enables organisations to create highly dynamic, scalable Cloud services.
 
 ## SixSq Sàrl
 
@@ -62,11 +62,23 @@ i2CAT is a non-profit technology and innovation centre which promotes R+D+i acti
 [![UVA Logo](/assets/images/logo_uva.jpg)](http://www.uva.nl/en/home)
 {: class="partner_logo"}
 
-The System and Network Engineering (SNE) Research group, embedded within the Computing, System architecture, and Programming Laboratory (CSP-Lab) in the Informatics Institute of University of Amsterdam, consists of about 20 researchers. The SNE group was a principal contractor within the EU funded DataTAG and EGEE-1 projects and currently is partner within the NextGRID, EGEE-2 and PHOSPHORUS projects.
+The System and Network Engineering (SNE) Research group is a part of the Informatics Institute of University of Amsterdam. SNE research areas include high-performance network and Cloud technologies for Data Intensive (Big Data) eScience applications, Intercloud architecture framework, cloud federation and corresponding multi-domain security and trust management models, resource description using semantic web, programmable networks and converged network+IT infrastructures for Future Internet.
 
-## Centre National de la Recherche Scientifique
+## Centre National de la Recherche Scientifique (CNRS)
 
 [![CNRS Logo](/assets/images/logo_cnrs.jpg)](http://www.cnrs.fr)
 {: class="partner_logo"}
 
 The Centre National de la Recherche Scientifique (National Centre for Scientific Research) is a government-funded research organization under the administrative authority of the French research ministry.  CNRS, consisting of 1211 laboratories, is the largest fundamental research organization in Europe and is extensively involved in national, European, and international projects covering all fields of knowledge.
+
+## CNRS - Institut Fraçais de Bioinformatique
+[![IFB Logo](/assets/images/logo_cnrs_ifb.jpg)](http://www.france-bioinformatique.fr)
+{: class="partner_logo"}
+
+The French Institute of Bioinformatics (CNRS IFB) is a national service infrastructure in bioinformatics. IFB's principal mission is to provide basic services and resources in bioinformatics for scientists and engineers working in the life sciences. IFB is the French node of the European research infrastructure,ELIXIR.
+
+## CNRS - Linear Accelerator Laboratory
+[![LAL Logo](/assets/images/logo_cnrs_lal.jpg)](http://www.lal.in2p3.fr/)
+{: class="partner_logo"}
+
+The Laboratory of the Linear Accelerator (LAL) is under the joint supervision of the Université Paris-Sud and the Institut National de Physique Nucleaire et de Physique des Particules (IN2P3) of the CNRS. The research activity of the LAL is centered on particles physics, supplemented by a strong component in cosmology and astrophysics. The laboratory ensures its mission of knowledge transmission by teaching and communication activities.

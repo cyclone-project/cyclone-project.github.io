@@ -1,0 +1,3 @@
+---
+---
+The Distributed Cloud Proxy is a customizable HTTP forward/reverse proxy written in Ruby, which supports enforcement of distributed access control as an XACML Policy Enforcement Point, location-based access control, billing, statistical metrics, and use of the TUB/SNET-developed [Trusted Cloud Transfer Protocol (TCTP)](#tctp), which provides true end-to-end security for cloud applications. The proxy is currently employed within a single ecosystem and will be extended to work with the holistic cloud abstraction in a multi-cloud environment.

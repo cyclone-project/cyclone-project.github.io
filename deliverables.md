@@ -1,3 +1,4 @@
 ---
+title: Deliverables
 layout: deliverables
 ---

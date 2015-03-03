@@ -13,5 +13,11 @@
 - name: "Deliverables"
   url: "/deliverables.html"
 
+- name: "Software"
+  url: "/software.html"
+
+- name: "Press"
+  url: "/press.html"
+
 - name: "Imprint"
   url: "/imprint.html"

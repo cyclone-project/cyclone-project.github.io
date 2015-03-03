@@ -1,3 +1,5 @@
+encoding: UTF-8
+
 defaults:
   -
     scope:
@@ -14,6 +16,18 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+
+  -
+    scope:
+      type: "press"
+    values:
+      layout: "release"
+
+collections:
+  software:
+    output: false
+  press:
+    output: true
 
 sass:
     style: :compressed
