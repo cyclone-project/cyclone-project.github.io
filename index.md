@@ -31,23 +31,13 @@ CYCLONE frees you from implementing common functionality, such as authentication
 
 The CYCLONE components provide advanced application, network, and data management features out of the box.
 
-#### "Free", as in "free beer"
+#### "Free", as in "free speech"
 
 All CYCLONE components are released under liberal open source licenses.
 </div>
+
 <div class="col-md-4">
-## For other cloud projects
-
-#### Join the discussion
-
-CYCLONE gathers best practice techniques and interfaces for implementing common application, network, and security management features. Outside feedback and ideas are always welcome.
-
-#### Work together
-
-We love to demonstrate CYCLONE components, give tutorials, and join you on cloud solution interoperatibility. You can contribute and give feedback to our open source components anytime.
-</div>
-<div class="col-md-4">
-## For everyone
+## For developers and practitioners
 
 #### Better
 
@@ -60,4 +50,16 @@ You will see a greater diversity in the cloud, as application developers can con
 #### Our Benefit
 
 CYCLONE helps to enlarge the European cloud market and thus raises IT employment and tax returns.
+</div>
+
+<div class="col-md-4">
+## For other cloud projects
+
+#### Join the discussion
+
+CYCLONE gathers best practice techniques and interfaces for implementing common application, network, and security management features. Outside feedback and ideas are always welcome.
+
+#### Work together
+
+We love to demonstrate CYCLONE components, give tutorials, and join you on cloud solution interoperatibility. You can contribute and give feedback to our open source components anytime.
 </div>
