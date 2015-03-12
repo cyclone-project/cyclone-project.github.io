@@ -1,8 +1,6 @@
 ---
-title: Kick-Off concludes
+title: CYCLONE Kick-Off
 ---
-#### Talks, discussions, and pizza!
+#### Enabling complex multi-cloud applications
 
-The CYCLONE Kick-Off concluded after having fruitful discussions as well as nice food.
-
-Thanks again to our project coordination, Interoute.
+The project "CYCLONE - Complete and Dynamic Multi-cloud Application Management" has started its activities to facilitate the deployment, management, and use of complex, multi-cloud applications.

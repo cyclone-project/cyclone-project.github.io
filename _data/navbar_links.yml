@@ -18,6 +18,9 @@
 
 - name: "Press"
   url: "/press.html"
+  
+- name: "Contact Us"
+  url: "/contact.html"
 
 - name: "Imprint"
-  url: "/imprint.html"
+  url: "/imprint.html"  
