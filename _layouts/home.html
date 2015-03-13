@@ -23,7 +23,15 @@
             <a class="twitter-timeline" href="https://twitter.com/H2020_CYCLONE" data-widget-id="570930261509304320" data-chrome="noheader nofooter noborders"></a>
             <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
         </div>
-      
+        <div class="col-md-2">
+         <h2>Follow us</h2>
+           {% for icon in site.data.social-icons %}
+			  <a class="social-icon--link {{ icon.class }}" href="{{ icon.url }}">
+				<img src= "{{ icon.class | prepend: 'assets/images/' | append: '.svg' }}" alt=cyclone-project@"{{ icon.class }}" width="42">
+				<span class="social-icon--title visuallyHidden">{{ icon.title }}</span>
+			  </a>
+			{% endfor %} 
+		</div>	
     </div>
 </div>
 
