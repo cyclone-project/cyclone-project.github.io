@@ -27,8 +27,7 @@
          <h2>Follow us</h2>
            {% for icon in site.data.social-icons %}
 			  <a class="social-icon--link {{ icon.class }}" href="{{ icon.url }}">
-				<img src= "{{ icon.class | prepend: 'assets/images/' | append: '.svg' }}" alt=cyclone-project@"{{ icon.class }}" width="42">
-				<span class="social-icon--title visuallyHidden">{{ icon.title }}</span>
+				<img src= "{{ icon.class | prepend: 'assets/images/' | append: '.svg' }}" alt=cyclone-project@"{{ icon.class }}" width="42"
 			  </a>
 			{% endfor %} 
 		</div>	
