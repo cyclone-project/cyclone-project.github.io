@@ -71,7 +71,7 @@ The System and Network Engineering (SNE) Research group is a part of the Informa
 
 The Centre National de la Recherche Scientifique (National Centre for Scientific Research) is a government-funded research organization under the administrative authority of the French research ministry.  CNRS, consisting of 1211 laboratories, is the largest fundamental research organization in Europe and is extensively involved in national, European, and international projects covering all fields of knowledge.
 
-## CNRS - Institut Fraçais de Bioinformatique
+## CNRS - Institut Français de Bioinformatique
 [![IFB Logo](/assets/images/logo_cnrs_ifb.jpg)](http://www.france-bioinformatique.fr)
 {: class="partner_logo"}
 
