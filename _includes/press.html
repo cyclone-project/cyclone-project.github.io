@@ -1,5 +1,5 @@
 <div class="news">
-    <h2>All press releases:</h2>
+    <h2>Press Releases</h2>
 
     {% for release in site.press reversed %}
         <h3><a href="{{release.url}}">{{ release.date | date: "%e %b %y") }} {{ release.title }}</a></h3>
