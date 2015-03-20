@@ -23,11 +23,20 @@
             <tr>
                 <td><strong>{{ deliverable.id }}</strong></td>
                 <td>{{ deliverable.wp }}</td>
-                <td>{{ deliverable.name }}</td>
+                <td> 
+		{% if deliverable.state == 'review' %}
+		<a href="{{ deliverable.name | prepend: 'assets/images/deliverables/' | append: '.pdf' }}"> {{ deliverable.name }}* </a>
+		{% elsif deliverable.state == 'done' %}
+		<a href="{{ deliverable.name | prepend: 'assets/images/deliverables/' | append: '.pdf' }}"> {{ deliverable.name }}</a>
+		{% else %}
+		{{ deliverable.name }}  
+ 		{% endif %}
+		</td>
                 <td data-dateformat="D MMMM YYYY">{{ deliverable.date | date: "%-d %B %Y"}}</td>
             </tr>
         {% endfor %}
         </tbody>
     </table>
+* Under EC review
 </div>
 {% include page_footer.html %}
