@@ -9,7 +9,7 @@
 </div>
 
 <div class="container">
-    <div class="row">
+      <!-- <div class="row">
         <div class="col-md-9" role="main">
             <h2>Software Overview</h2>
 
@@ -37,10 +37,12 @@
             {% for software in site.data.software %}
                 {% capture slug %}{{ software.Component | downcase | replace: ' ', '-' }}{% endcapture %}
 
-                <h2 id="{{ slug }}">{{ software.Component }}</h2>
-
-                <h4>Links: <a href="{{software.Repository}}">Github Repository</a>, <a href="{{ software.Homepage }}">Software Homepage</a></h4>
-
+                <h2 id="{{ slug }}">  <a class="software-logo" href="{{ software.Homepage }}">
+				<img src= "{{ software.Component | downcase | prepend: 'assets/images/logo_' | append: '.png' }}" alt="{{ software.Component }}" width="160"> </h2> 
+			  </a>
+               
+                <h4>Links: <a href="{{software.Repository}}">Github Repository</a> </h4>
+          
                 {% for description in site.software %}
                     {% if description.path contains slug %}
                         {{ description.content }}
@@ -48,11 +50,52 @@
                 {% endfor %}
             {% endfor %}
         </div>
-        <div class="col-md-3" role="complementary">
+     <div class="col-md-3" role="complementary">
             <nav class="affix-nav hidden-print hidden-xs hidden-sm">
                 <div id="toc"></div>
             </nav>
-        </div>
+        </div> -->
+     
+       <h2>Software Overview</h2>
+
+            <table class="table table-striped table-bordered table-software sortable" markdown="0">
+                <thead>
+                <tr>
+                    <th>Component</th>
+                    <th>Partner</th>
+                    <th>License</th>
+                    <th>Links</th>
+                </tr>
+                </thead>
+                <tbody>
+                    {% for software in site.data.software %}
+                        <tr>
+                            <td><strong><a href="#{{ software.Component | downcase | replace: ' ', '-' }}">{{ software.Component }}</a></strong></td>
+                            <td>{{ software.Partner }}</td>
+                            <td>{{ software.License }}</td>
+                            <td><a href="{{ software.Repository }}">Repo</a>&nbsp;|&nbsp;<a href="{{ software.Homepage }}">Website</a></td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+
+            {% for software in site.data.software %}
+                {% capture slug %}{{ software.Component | downcase | replace: ' ', '-' }}{% endcapture %}
+                 <h2 id="{{ slug }}">
+				{% if software.Logo == 'yes' %}
+					<a class="software-logo"><img src= "{{ software.Component | downcase | prepend: 'assets/images/logo_' | append: '.png' }}" alt="{{ software.Component }}" width="160"></a>
+			    {% else %}
+					{{ software.Component }}
+				{% endif %}	 
+			 </h2>
+             <h4>Links: <a href="{{software.Repository}}">Github Repository</a>, <a href="{{ software.Homepage }}">Software Homepage</a></h4>
+          
+                {% for description in site.software %}
+                    {% if description.path contains slug %}
+                        {{ description.content }}
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
     </div>
 </div>
 

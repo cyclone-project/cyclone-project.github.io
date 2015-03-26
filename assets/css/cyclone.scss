@@ -74,12 +74,13 @@ body {
     color: #FFF;
     text-shadow: black 0.1em 0.1em 0.2em;
     padding-top: 50px;
+
   }
 
   // Small jumbotron for page headers
   .jumbotron-small {
     @extend .jumbotron;
-
+    
     padding: 50px 0 ($jumbotron-padding / 2) 0;
     margin-bottom: ($jumbotron-padding / 2);
 

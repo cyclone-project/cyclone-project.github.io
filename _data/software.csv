@@ -1,7 +1,7 @@
-Component,Partner,License,Repository,Homepage
-SlipStream,SixSq Sàrl,Apache 2,https://github.com/SlipStream,http://sixsq.com/products/slipstream.html
-StratusLab,SixSq Sàrl,Apache 2,https://github.com/StratusLab,http://www.stratuslab.eu/index.html
-OpenNaaS Core,Fundació i2CAT,GPLv3,https://github.com/dana-i2cat/opennaas,http://opennaas.org/
+Component,Partner,License,Repository,Homepage,Logo
+SlipStream,SixSq Sàrl,Apache 2,https://github.com/SlipStream,http://sixsq.com/products/slipstream.html,yes
+StratusLab,SixSq Sàrl,Apache 2,https://github.com/StratusLab,http://www.stratuslab.eu/index.html,yes
+OpenNaaS Core,Fundació i2CAT,GPLv3,https://github.com/dana-i2cat/opennaas,http://opennaas.org/,yes
 OpenNaaS Extensions,OpenNaaS Community,Apache 2,https://github.com/dana-i2cat/opennaas,http://opennaas.org/partners/
 Distributed Cloud Proxy,TU Berlin,Apache 2,https://github.com/TU-Berlin-SNET/tresor-proxy,https://github.com/TU-Berlin-SNET/tresor-proxy
 Cloud Broker,TU Berlin,Apache 2,https://github.com/TU-Berlin-SNET/tresor-broker,https://github.com/TU-Berlin-SNET/tresor-broker

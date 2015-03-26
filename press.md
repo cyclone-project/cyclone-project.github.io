@@ -4,4 +4,6 @@ layout: press
 ---
 ## Downloads
 
-Logos, Images, etc.
+[Logo](/assets/images/CYCLONE-LOGO.png)
+
+[Leaflet](/assets/images/flyer-CYCLONE.pdf)
