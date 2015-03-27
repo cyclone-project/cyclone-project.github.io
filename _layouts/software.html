@@ -79,23 +79,23 @@
                 </tbody>
             </table>
 
+			
             {% for software in site.data.software %}
                 {% capture slug %}{{ software.Component | downcase | replace: ' ', '-' }}{% endcapture %}
-                 <h2 id="{{ slug }}">
-				{% if software.Logo == 'yes' %}
-					<a class="software-logo"><img src= "{{ software.Component | downcase | prepend: 'assets/images/logo_' | append: '.png' }}" alt="{{ software.Component }}" width="160"></a>
-			    {% else %}
+                <div class= "software_item">
+                <h3 id="{{ slug }}">
 					{{ software.Component }}
-				{% endif %}	 
-			 </h2>
+			    </h3>
              <h4>Links: <a href="{{software.Repository}}">Github Repository</a>, <a href="{{ software.Homepage }}">Software Homepage</a></h4>
           
                 {% for description in site.software %}
                     {% if description.path contains slug %}
-                        {{ description.content }}
+                    {{ description.content }}
                     {% endif %}
                 {% endfor %}
+                 </div>
             {% endfor %}
+           
     </div>
 </div>
 
