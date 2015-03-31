@@ -5,7 +5,7 @@
 <div class="jumbotron-small">
     <div class="container">
         <h1>{{ page.title }}</h1>
-        <h3>{{ page.date | date: "%A, %-d %B %Y" }}</h3>
+        
     </div>
 </div>
 
@@ -32,8 +32,9 @@
 <div class="container">
     <div class="row">
         <div class="col-md-9" role="main">
+            <h2>{{ page.date | date: "%A, %-d %B %Y" }}</h2>
             {{ content }}
-
+			
             <div id="disqus_thread"></div>
             <script type="text/javascript">
                 /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
