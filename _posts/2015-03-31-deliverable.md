@@ -11,6 +11,7 @@ community about the CYCLONE project, its activities and technologies.
 The DCP describes channels, mechanisms activities to deliver the main
 project messages to different target groups identified by the project.
 
+<!-- more -->
 The project’s communication efforts are focused to reach both the major
 community of Application Service Providers and Managed Service
 Providers, and other audiences such as Cloud Service Providers,
