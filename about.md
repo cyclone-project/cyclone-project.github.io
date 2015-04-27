@@ -16,7 +16,7 @@ CYCLONE’s software and tools will:
  * Facilitate the deployment, management, and use of complex, multi-cloud applications, and
  * Enhance the end-to-end security of those applications.
 
-![CYCLONE Overview](/assets/images/work_packages.png "CYCLONE Overview"){:.overview}
+![CYCLONE Overview](/assets/images/work_packages.png "CYCLONE Overview"){: class="centering-img"}
 
 The CYCLONE project integrates and improves existing, production-quality tools to achieve this aim.
 

@@ -4,14 +4,14 @@ title: D2.2 Available
 #### Deliverable on Dissemination and Communication Plan
 
 We've submitted our second deliverable on Dissemination and Communication Plan. It is available on our Deliverables Page at: <http://www.cyclone-project.eu/deliverables.html>.
-
+<!-- more -->
 CYCLONE Dissemination and Communication Plan (DCP) presented in
 deliverable D2.2 (M3) includes a number of activities to inform
 community about the CYCLONE project, its activities and technologies.
 The DCP describes channels, mechanisms activities to deliver the main
 project messages to different target groups identified by the project.
 
-<!-- more -->
+
 The project’s communication efforts are focused to reach both the major
 community of Application Service Providers and Managed Service
 Providers, and other audiences such as Cloud Service Providers,

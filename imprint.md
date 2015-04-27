@@ -31,6 +31,9 @@ Phone: +49 30 8353 58811
 
 CYCLONE photo courtesy of the [Earth Science and Remote Sensing Unit, NASA Johnson Space Center](http://eol.jsc.nasa.gov/). NASA photo ID: [ISS040-E-017316](http://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS040&roll=E&frame=017316).
 
+
+<div>Icons made by <a href="http://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a>             is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>
+
 ## Disclaimer
 
 * Disclaimer about TMG & RStV
