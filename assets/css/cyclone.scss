@@ -26,10 +26,12 @@ $navbar-default-toggle-hover-bg:           #ddd !default;
 $navbar-default-toggle-icon-bar-bg:        #888 !default;
 $navbar-default-toggle-border-color:       #ddd !default;
 
+//** Define the variable since it is before importing bootstrap
+$screen-md-min: 992px;
 //** Point at which the navbar becomes uncollapsed.
-$grid-float-breakpoint:     $screen-md-min;
+ $grid-float-breakpoint:     $screen-md-min;
 //** Point at which the navbar begins collapsing.
-$grid-float-breakpoint-max: ($grid-float-breakpoint - 1);
+ $grid-float-breakpoint-max: ($grid-float-breakpoint - 1);
 
 // Fonts
 $font-family-sans-serif:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
