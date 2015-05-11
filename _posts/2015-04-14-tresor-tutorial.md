@@ -4,7 +4,7 @@ title: TRESOR Tutorial
 #### CYCLONE delivered internal TRESOR tutorial
 
 CYCLONE WP4 team at TUB organised and delivered internal tutorial on TRESOR system for project members. 
-Tutorial presentation and materials are available at the tutorial github page at: <https://github.com/TU-Berlin-SNET/tresor-ecosystem>.
+Tutorial presentation and materials are available at the press page at: [Press](/press.html). For more information please see: <https://github.com/TU-Berlin-SNET/tresor-ecosystem>.
 <!-- more -->
 
 The tutorial took place online on 14 April 2015. 
