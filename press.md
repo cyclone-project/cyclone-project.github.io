@@ -19,3 +19,5 @@ layout: press
 [Stratuslab Tutorial Client Install](/assets/images/tutorials/stratuslabTutorial02.pdf)
 
 [Stratuslab Tutorial Client Usage](/assets/images/tutorials/stratuslabTutorial03.pdf)
+
+[OpenNaaS Tutorial](/assets/images/tutorials/OpenNaaSTutorial.pdf)
