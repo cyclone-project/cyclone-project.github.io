@@ -13,11 +13,16 @@
 - name: "Deliverables"
   url: "/deliverables.html"
 
-- name: "Software"
+- name: "Components"
   url: "/software.html"
 
-- name: "Press"
+- name: "Media"
   url: "/press.html"
-  
+  child_links: 
+         - name: "Press"
+           url: "/press.html"
+         - name: "Tutorials"
+           url: "/tutorials.html"
+
 - name: "Contact Us"
-  url: "/contact.html" 
+  url: "/contact.html"

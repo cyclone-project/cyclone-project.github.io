@@ -1,9 +1,12 @@
 ---
 title: About
+layout: default
 ---
 ## Overview
 
 CYCLONE is a [Horizon 2020](http://ec.europa.eu/programmes/horizon2020/) innovation action funded by the European Commission which aims at integrating existing cloud management software to allow a unified management of federated clouds.
+
+The project consortium consists of 7 partners, representing ICT and life sciences research, and industry. The 3 year project started in January 2015 and will last until December 2018. The CYCLONE software consists of StratusLab, SlipStream, OpenNaaS Core and Extensions, Distributed Cloud Proxy and Broker, and GAAA-TK and SNE-XACML.
 
 CYCLONE integrates Network-as-a-Service, application deployment, service access management as well as end-to-end security solutions. The integration will be validated in diverse application areas, such as bioinformatics, high-energy physics, and cloud application service provisioning.
 
@@ -51,13 +54,6 @@ These objectives address a number of deficiencies of the current cloud ecosystem
  * Lack of a unified identity management scheme between cloud providers forces application service providers to manage a variety of credentials, often in suboptimal ways that reduce the security of the overall application deployment.
  * Mechanisms for the secure, end-to-end management of sensitive data are not incorporated in either the cloud software or the application deployment tools.
 
-## Partners
-The project consortium consists of 7 partners, representing ICT and life sciences research, and industry. The 3 year project started in January 2015 and will last until December 2018.
-
-For more information on the consortium members, please visit our [Consortium](/consortium.html) page.
-
-## Software
-The CYCLONE software consists of StratusLab, SlipStream, OpenNaaS Core and Extensions, Distributed Cloud Proxy and Broker, and GAAA-TK and SNE-XACML. For more information on the software components, please visit our [Software](/software.html) page.
 
 
 

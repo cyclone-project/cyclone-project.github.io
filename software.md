@@ -1,4 +1,4 @@
 ---
-title: Software
+title: Components
 layout: software
 ---
