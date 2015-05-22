@@ -10,21 +10,33 @@
                     <img src="/assets/images/EC-H2020-black.png">
                 </a>
                 </div>
-                </div>
+                
+            </div>
                 
                 
            <div class="row">  
 		   <div class="col-md-4">
+    		</div>
+		   <div class="col-md-2">
+			   <p class"text-right">
+			    <h4>Follow us</h4>
+                 {% for icon in site.data.social-icons %}
+			     <a class="social-icon--link {{ icon.class }}" href="{{ icon.url }}">
+				  <img src= "{{ icon.class | prepend: 'assets/images/' | append: '.svg' }}" alt=cyclone-project@"{{ icon.class }}" width="42">
+			     </a>
+			     {% endfor %}
+			   </p> 
 		   </div>
 							
-			 <div class="col-md-4">
+			 <div class="col-md-2">
 				<a href="/imprint.html">
-                    Imprint
+                   <h4> Imprint  </h4>
                 </a>
 			</div>
 		   
 		   <div class="col-md-4">
     		</div>
+
            </div>   
            </div>       
         </footer>

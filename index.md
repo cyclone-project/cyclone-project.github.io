@@ -19,18 +19,21 @@ CYCLONE integrates Network-as-a-Service, application deployment, service access 
 [![Service Logo](/assets/images/three115.png){: class="centering-img-small"}](/service.html)
 
 <h2 class= "centering-txt">  For service providers</h2>
+<p class= "centering-txt">CYCLONE frees you from implementing common functionality</p>
 </div>
 
 <div class="col-md-4">
 [![Service Logo](/assets/images/programmer.png){: class="centering-img-small"}](/developers.html)
 
 <h2 class= "centering-txt">For developers and practitioners</h2>
+<p class= "centering-txt">CYCLONE improves the security and robustness of your favourite cloud applications through common and advanced management functionalities.</p>
 </div>
 
-<div class="col-md-4">
+<div class="col-md-4 centering-txt">
 [![Service Logo](/assets/images/cloudstorage6.png){: class="centering-img-small"}](/othercloud.html)
 
-<h2 class= "centering-txt">For other cloud projects</h2>
+<h2>For other cloud projects</h2>
+<p>CYCLONE gathers best practice techniques.</p>
 </div>
 
 </div>
