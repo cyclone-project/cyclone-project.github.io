@@ -5,8 +5,8 @@ title: StratusLab Tutorial
 
 CYCLONE project team from LAL CNRS organised and hosted internal tutorial for project members on 
 StratusLab cloud management platform. 
-StratusLab documentation is available at <http://www.stratuslab.eu/documentation/>  Tutorial materials
-are available at the [Press](/press.html) page under Tutorials.
+StratusLab documentation is available at <http://www.stratuslab.eu/documentation/>.  Tutorial materials
+are available at the [Tutorials](/tutorials.html) page.
 <!-- more -->
 
 StratusLab is an open collaboration of institutes (CNRS, SixSq, GRNET, and TCD) and individuals that 
