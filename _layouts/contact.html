@@ -11,6 +11,46 @@
 
 <div class="container">
 <div class="row equal">
+<div id="c32" class="col-md-6">
+<script src="/assets/javascript/jquery.js"></script>
+<script type="text/javascript">
+//execute the function when the DOM is ready
+$(function() {
+  //submit the form data
+  $("#contactForm").submit(
+	//submit handler
+    function(event){ 
+	// Stop form from submitting normally
+    event.preventDefault();	
+	// do some validation
+	var $form = $( this ),
+	url = $form.attr( "action" );
+	//......	
+    var posting = $.post(url, $( "#contactForm" ).serialize());
+    // somehow posting.done below or a callback function to the above method wont work
+    posting.always(function(){window.location = "/thank_you.html";});
+    }
+  );
+   
+});
+</script>
+
+
+
+<form id="contactForm" class="bootstrap-frm" action="http://getsimpleform.com/messages?form_api_token=76c0c53d483f695746a0e9e778e69206">
+<h1>Contact Form
+<span>Please fill all the texts in the fields.</span>
+</h1>
+<p>
+
+<label><span>Your Name :</span><input id="name" name="name" placeholder="Your Full Name" type="text"></label>
+<label><span>Your Email :</span><input id="email" name="email" placeholder="Valid Email Address" type="email"></label>
+<label><span>Message :</span><textarea id="message" name="message" placeholder="Your Message to Us"></textarea></label>
+<label><span>&nbsp;</span><input value="Submit" type="submit"></label>
+
+</p>
+</form>
+</div>
 
 <div class="col-md-4">
 <h2>Project Coordinator</h2>
