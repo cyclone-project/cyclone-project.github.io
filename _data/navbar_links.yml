@@ -10,9 +10,6 @@
 - name: "Consortium"
   url: "/consortium.html"
 
-- name: "Deliverables"
-  url: "/deliverables.html"
-
 - name: "Components"
   url: "/software.html"
 
@@ -23,6 +20,8 @@
            url: "/press.html"
          - name: "Tutorials"
            url: "/tutorials.html"
+         - name: "Deliverables"
+           url: "/deliverables.html"
 
 - name: "Contact Us"
   url: "/contact.html"

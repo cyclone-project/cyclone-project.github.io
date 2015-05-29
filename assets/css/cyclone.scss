@@ -65,9 +65,26 @@ body {
     /* Negative indent footer by it's height */
     margin: 0 auto (-1 * $footer-height);
   }
+  
+  
+  .navbar-brand {
+   padding-top:15px;
+   }
 
   .navbar, #toc {
     font-family: $font-family-sans-serif;
+  }
+   
+   a.navbar-brand img{
+   max-height:55px;
+   max-width: 100%;
+    display: block;
+ 	margin: 0 auto;
+   }
+    
+  @media screen and (max-width: $screen-sm-min) {
+     a.navbar-brand img{
+     max-height: 45px;}
   }
 
   .navbar{
@@ -91,9 +108,9 @@ body {
   .jumbotron-small {
     @extend .jumbotron;
     
-    padding: 50px 0 ($jumbotron-padding / 2) 0;
+    padding: 100px 0 ($jumbotron-padding / 2) 0;
     margin-bottom: ($jumbotron-padding / 2);
-	min-height: 150px;
+	min-height: 200px;
 
     @media screen and (min-width: $screen-sm-min) {
       h1, .h1 {
@@ -114,7 +131,12 @@ body {
     max-height: 200px;
   }
    
-  
+  @media screen and (max-width: 320px) {
+     .centering-img-small {
+     max-height: 100px;
+  }
+
+  }
   .centering-txt {
     text-align: center;
     padding-bottom: 10px;
