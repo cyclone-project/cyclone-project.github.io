@@ -25,10 +25,19 @@ $(function() {
 	// do some validation
 	var $form = $( this ),
 	url = $form.attr( "action" );
-	//......	
-    var posting = $.post(url, $( "#contactForm" ).serialize());
+   
+	//$( "#contactForm" ).serialize()
+    var posting = $.post("mailto:contact@cyclone-project.eu");
     // somehow posting.done below or a callback function to the above method wont work
-    posting.always(function(){window.location = "/thank_you.html";});
+    var $inputs = $('#contactForm :input');
+
+    var values = {};
+    $inputs.each(function() {
+        values[this.name] = $(this).val();
+    });
+    posting.always(function()
+    {window.location ="mailto:contact@cyclone-project.eu?subject="+"CYCLONE Feedback from "+ values["name"]+"&body="+values["message"]+ "&cc=" + values["email"]}
+    );
     }
   );
    
@@ -37,14 +46,14 @@ $(function() {
 
 
 
-<form id="contactForm" class="bootstrap-frm" action="http://getsimpleform.com/messages?form_api_token=76c0c53d483f695746a0e9e778e69206">
+<form id="contactForm" class="bootstrap-frm" action=>
 <h1>Contact Form
-<span>Please fill all the texts in the fields.</span>
+<!--<span>Please fill all the texts in the fields.</span>-->
 </h1>
 <p>
 
-<label><span>Your Name :</span><input id="name" name="name" placeholder="Your Full Name" type="text"></label>
-<label><span>Your Email :</span><input id="email" name="email" placeholder="Valid Email Address" type="email"></label>
+<label><span>Name :</span><input id="name" name="name" placeholder="Full Name" type="text"></label>
+<label><span>E-mail :</span><input id="email" name="email" placeholder="E-mail Address" type="email"></label>
 <label><span>Message :</span><textarea id="message" name="message" placeholder="Your Message to Us"></textarea></label>
 <label><span>&nbsp;</span><input value="Submit" type="submit"></label>
 
@@ -56,15 +65,15 @@ $(function() {
 <h2>Project Coordinator</h2>
 <div></div><div>
 	<p>Matteo Biancani<br />Interoute<br />
- <a href=mailto:matteo.biancani@interoute.com data-rel="external">Contact</a>
+
 </p></div><div></div>
 <h2><br />Technical Coordinator</h2>
 <div></div>
 <div>
 	<p>Eduard Escalona<br />i2Cat<br /> 
-	<a href=mailto:eduard.escalona@i2cat.net data-rel="external">Contact</a></p>
+	</p>
 </div><div></div>
-	<div><p><br />www.cyclone-project.eu</p></div>
+	
 
 </div>
 </div>
