@@ -68,14 +68,18 @@ Papers describing original research on both theoretical and practical aspects of
 ## Important Dates:
 
 Paper Submissions: August 4, 2015 
+
 Notification: September 8, 2015
+
 Camera-ready: September 16, 2015 
+
 NetCloud2015 workshop (during UCC2015 Conference): 7-10 December2015 
 
 ## Paper submission instructions
 
 This workshop will only accept for review original papers that have not been previously published. Papers should be formatted based on the IEEE Transactions journals and conferences style; maximum allowed camera-ready paper length is six (6) pages. Submissions must be in Adobe PDF format, including text, figures and references.
-Accepted papers will be published in the CloudCom2015 proceedings. For further information see IEEE/ACM UCC2015 website http://cyprusconferences.org/ucc2015/#&panel1-3. 
+
+Accepted papers will be published in the UCC2015 proceedings. For further information see IEEE/ACM UCC2015 website http://cyprusconferences.org/ucc2015/#&panel1-3. 
 
 Paper submission website: <https://easychair.org/conferences/?conf=netcloud2015>
 
@@ -86,8 +90,11 @@ All submitted paper will be reviewed by international program committee.
 ## Workshop Organizers
 
 The workshop is organized by the partners of the CYCLONE, GEANT4, the EC-funded H2020 projects. 
+
 •	Anna Tzanakaki, AIT, Greece, atzanakaki (at) phys.uoa.gr
+
 •	Eduard Escalona, I2CAT, Spain, eduard.escalona (at) i2cat.net
+
 •	Yuri Demchenko, University of Amsterdam, The Netherlands, y.demchenko (at) uva.nl 
 
 ## Technical Program Committee (tentative list from 2014)
