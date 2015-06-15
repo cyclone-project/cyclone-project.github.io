@@ -3,7 +3,7 @@ title: NetCloud 2015 Workshop - In conjunction with UCC2015 on December 07-10, 2
 ---
 
 ### The 5th workshop on Network Infrastructure Services as part of Cloud Computing (NetCloud 2015)
-Webpage: http://www.cyclone-project.eu/netcloud2015/
+Webpage: <http://www.cyclone-project.eu/netcloud2015/>
 
 In conjunction with the 8th IEEE/ACM International Conference on Utility and Cloud Computing (UCC2015), 
 December 07-10, 2015 – St. Raphael Resort, Limassol, Cyprus
@@ -77,7 +77,7 @@ NetCloud2015 workshop (during UCC2015 Conference): 7-10 December2015
 This workshop will only accept for review original papers that have not been previously published. Papers should be formatted based on the IEEE Transactions journals and conferences style; maximum allowed camera-ready paper length is six (6) pages. Submissions must be in Adobe PDF format, including text, figures and references.
 Accepted papers will be published in the CloudCom2015 proceedings. For further information see IEEE/ACM UCC2015 website http://cyprusconferences.org/ucc2015/#&panel1-3. 
 
-Paper submission website– To be announced.
+Paper submission website: <https://easychair.org/conferences/?conf=netcloud2015>
 
 ## Review procedure 
 
