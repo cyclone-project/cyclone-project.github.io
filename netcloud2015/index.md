@@ -24,23 +24,41 @@ NetCloud2015, collocated with IEEE/ACM UCC2015, attempts to address the problem 
 
 ## Topics of Interest
 •	Definition and architectures for the Network as a Service (NaaS) cloud service model and Cloud Carrier operational model
+
 •	Zero Touch Network services provisioning
+
 •	Intercloud and inter-datacenters Software Defined Networks (SDN)
+
 •	Heterogeneous network architectures and frameworks for distributed and high performance computing
+
 •	Cloud and Intercloud architecture frameworks and required on-demand network infrastructure provisioning
+
 •	Cloud and Intercloud Federation Infrastructure and components
+
 •	“Last mile” in cloud services delivery
+
 •	Unified and converged IT and optical resources description languages and frameworks for cloud oriented infrastructures
+
 •	General Infrastructure services provisioning in clouds, new architecture developments, service delivery and on-demand provisioning frameworks 
+
 •	Isolation and flexibility of the cloud oriented virtualized optical networks
+
 •	Network infrastructure optimization for intra- and inter-datacenter communication  and resources virtualisation
+
 •	Standardization of optical network service provisioning interfaces for cloud based platforms and services 
+
 •	Co-advertisement, co-planning, composition and co-provisioning of any type of optical network resource and IT services (i.e. connectivity + IT resources at the end-points coordinated in a single, optimal procedure)
+
 •	Performance and reliability issues, Service Level Agreement and QoS guarantees in the network layer
+
 •	Dynamically provisioned security infrastructure and its integration with provider and customer legacy services and service provisioning workflow, security policy definition, security context management
+
 •	End-to-end techniques for autonomic management of cloud resources
+
 •	Policy based infrastructure services management
+
 •	Experimental platforms that support network management in cloud computing
+
 •	Experimentation test-beds and measurement studies
 
 ## Call for papers:
