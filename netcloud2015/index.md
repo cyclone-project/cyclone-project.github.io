@@ -8,7 +8,7 @@ Webpage: <http://www.cyclone-project.eu/netcloud2015/>
 In conjunction with the 8th IEEE/ACM International Conference on Utility and Cloud Computing (UCC2015), 
 December 07-10, 2015 – St. Raphael Resort, Limassol, Cyprus
 
-## Introduction	
+# Introduction	
 
 The workshop is a follow-up of the successful workshop in 2011-2014 (held in conjunction with the CloudCom conference), where a number of enthusiasts of cloud computing and future networking exchanged ideas and presented results of research projects dealing with clouds and network integration.  
 
@@ -18,11 +18,12 @@ The workshop will address issues of network virtualization to create an ecosyste
 The workshop will consist of a number of sessions, where recent results of on-going and just-finished research projects will be demonstrated. The workshop will present also some future research considerations on the future of cloud computing and networking and expose views from different perspectives: research projects and industry.
 The workshop will be followed by a panel discussion, to allow free exchange of thoughts and ideas between the workshop speakers and audience. 
 
-## Objective 
+# Objective 
 
 NetCloud2015, collocated with IEEE/ACM UCC2015, attempts to address the problem of how the underlying network infrastructure is capable of supporting advanced cloud computing cases. The workshop is intended to bring together network research community, commercial network operators and industry with the major cloud computing players, including IT specialists, researchers and commercial providers. 
 
-## Topics of Interest
+# Topics of Interest
+
 •	Definition and architectures for the Network as a Service (NaaS) cloud service model and Cloud Carrier operational model
 
 •	Zero Touch Network services provisioning
