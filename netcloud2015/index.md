@@ -7,6 +7,7 @@ Webpage: <http://www.cyclone-project.eu/netcloud2015/>
 
 In conjunction with the 8th IEEE/ACM International Conference on Utility and Cloud Computing (UCC2015), 
 December 07-10, 2015 – St. Raphael Resort, Limassol, Cyprus
+<http://cyprusconferences.org/ucc2015/#&panel1-3>
 
 ### Introduction	
 
