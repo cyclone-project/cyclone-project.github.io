@@ -1,5 +1,5 @@
 ---
-title: Camera-ready submitted at KDCloudApps 2015
+title: Camera-ready submitted to KDCloudApps 2015
 ---
 #### First International Workshop on Knowledge Discovery and Cloud Computing Applications
 
