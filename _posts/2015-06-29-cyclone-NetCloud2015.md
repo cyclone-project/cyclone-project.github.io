@@ -3,7 +3,7 @@ title: The 5th NetCloud2015 Workshop as part of UCC2015 Conference
 ---
 #### CYCLONE will partner with the GEANT4 project to co-organise the 5th NetCloud2015 Workshop as part of UCC2015 Conference
 
-CYCLONE will partner with the GEANT4 project to co-organise the 5th NetCloud2015 Workshop (<http://www.cyclone-project.eu/netcloud2015/>) as part of the 8th IEEE/ACM International Conference 
+CYCLONE will partner with the GEANT4 project to co-organise the 5th [NetCloud2015 Workshop ](/netcloud2015.html) as part of the 8th IEEE/ACM International Conference 
 on Utility and Cloud Computing UCC2015 that will be held on December 07-10, 2015 – St. Raphael Resort, Limassol, Cyprus 
 (<http://cyprusconferences.org/ucc2015/#&panel1-3>)
 

@@ -63,11 +63,11 @@ NetCloud2015, collocated with IEEE/ACM UCC2015, attempts to address the problem 
 
 •	Experimentation test-beds and measurement studies
 
-### Call for papers:
+### Call for papers
 
 Papers describing original research on both theoretical and practical aspects of dynamic network services for cloud computing are solicited.
 
-### Important Dates:
+### Important Dates
 
 Paper Submissions: August 4, 2015 
 
