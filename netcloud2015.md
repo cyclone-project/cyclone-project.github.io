@@ -3,7 +3,7 @@ title: NetCloud 2015 Workshop - In conjunction with UCC2015 on December 07-10, 2
 ---
 
 ### The 5th workshop on Network Infrastructure Services as part of Cloud Computing (NetCloud 2015)
-Webpage: <http://www.cyclone-project.eu/netcloud2015/>
+Webpage: <http://www.cyclone-project.eu/netcloud2015.html>
 
 In conjunction with the 8th IEEE/ACM International Conference on Utility and Cloud Computing (UCC2015), 
 December 07-10, 2015 – St. Raphael Resort, Limassol, Cyprus
