@@ -9,6 +9,8 @@ In conjunction with the 8th IEEE/ACM International Conference on Utility and Clo
 December 07-10, 2015 – St. Raphael Resort, Limassol, Cyprus
 <http://cyprusconferences.org/ucc2015/#&panel1-3>
 
+DEADLINE Paper submission EXTENDED till 23 August 2015
+
 ### Introduction	
 
 The workshop is a follow-up of the successful workshop in 2011-2014 (held in conjunction with the CloudCom conference), where a number of enthusiasts of cloud computing and future networking exchanged ideas and presented results of research projects dealing with clouds and network integration.  
@@ -69,11 +71,11 @@ Papers describing original research on both theoretical and practical aspects of
 
 ### Important Dates
 
-Paper Submissions: August 4, 2015 
+Paper Submissions: August 23, 2015 EXTENDED 
 
-Notification: September 8, 2015
+Notification: September 11, 2015
 
-Camera-ready: September 16, 2015 
+Camera-ready: September 18, 2015 
 
 NetCloud2015 workshop (during UCC2015 Conference): 7-10 December2015 
 
