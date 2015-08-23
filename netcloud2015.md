@@ -9,7 +9,7 @@ In conjunction with the 8th IEEE/ACM International Conference on Utility and Clo
 December 07-10, 2015 – St. Raphael Resort, Limassol, Cyprus
 <http://cyprusconferences.org/ucc2015/#&panel1-3>
 
-DEADLINE Paper submission EXTENDED till 23 August 2015
+DEADLINE Paper submission  31 August 2015 - Final EXTENSION
 
 ### Introduction	
 
@@ -71,7 +71,7 @@ Papers describing original research on both theoretical and practical aspects of
 
 ### Important Dates
 
-Paper Submissions: August 23, 2015 EXTENDED 
+Paper Submissions: 31 August 2015 - Final EXTENSION 
 
 Notification: September 11, 2015
 
