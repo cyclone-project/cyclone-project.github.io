@@ -73,9 +73,9 @@ Papers describing original research on both theoretical and practical aspects of
 
 Paper Submissions: 31 August 2015 - Final EXTENSION 
 
-Notification: September 11, 2015
+Notification: September 18, 2015
 
-Camera-ready: September 18, 2015 
+Camera-ready: October 1, 2015 
 
 NetCloud2015 workshop (during UCC2015 Conference): 7-10 December2015 
 
