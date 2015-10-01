@@ -1,7 +1,7 @@
 ---
 title: CYCLONE will present a first position paper at 5th NetClod2015 workshop
 ---
-#### CYCLONE will present a first position paper at 5th NetClod2015 workshop 
+#### CYCLONE will present a position paper at the 5th NetClod2015 workshop 
 
 CYCLONE will present a first position paper at 5th NetClod2015 workshop that will be collocated witj the UCC2015 
 conference December 07-10, 2015 – St. Raphael Resort, Limassol, Cyprus
