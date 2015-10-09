@@ -22,6 +22,8 @@
            url: "/tutorials.html"
          - name: "Deliverables"
            url: "/deliverables.html"
+         - name: "Appliance Creation Workflow"
+           url: "/appliance_creation.html"
 
 - name: "Contact Us"
   url: "/contact.html"
