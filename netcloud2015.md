@@ -96,7 +96,9 @@ All submitted paper will be reviewed by international program committee.
 The workshop is organized by the partners of the CYCLONE, GEANT4, the EC-funded H2020 projects. 
 
 •	Anna Tzanakaki, AIT, Greece, atzanakaki (at) phys.uoa.gr
+
 •	Eduard Escalona, I2CAT, Spain, eduard.escalona (at) i2cat.net
+
 •	Yuri Demchenko, University of Amsterdam, The Netherlands, y.demchenko (at) uva.nl 
 
 ### Technical Program Committee
