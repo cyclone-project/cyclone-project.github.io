@@ -96,16 +96,66 @@ All submitted paper will be reviewed by international program committee.
 The workshop is organized by the partners of the CYCLONE, GEANT4, the EC-funded H2020 projects. 
 
 •	Anna Tzanakaki, AIT, Greece, atzanakaki (at) phys.uoa.gr
-
 •	Eduard Escalona, I2CAT, Spain, eduard.escalona (at) i2cat.net
-
 •	Yuri Demchenko, University of Amsterdam, The Netherlands, y.demchenko (at) uva.nl 
 
 ### Technical Program Committee
 
-To be announced…
+Luis Contreras, Telefonica I+D
 
-### Invited Speakers
+Yufeng Xin, RENCI, UNC-CH
 
-To be announced…
+Nicola Ciulli, Nextworks s.r.l
+
+Max Ott, NICTA
+
+Chin Guok, ESnet
+
+Pasquale Donadio, Università degli Studi di Napoli Federico II
+
+Marc Makkes, University of Amsterdam
+
+Miroslav Zivkovic, University of Amsterdam
+
+### Workshop Programme - Monday 7 December 2015
+
+#### Session 1 (9:00-10:30)
+
+#### Introduction: Workshop goal and community
+Yuri Demchenko, University of Amsterdam, Netherlands
+
+#### CYCLONE Unified Deployment and Management of Federated, Multi-Cloud Applications 
+Mathias Slawik <mathias.slawik@tu-berlin.de>, Begüm Ilke Zilci, SNET, Technische Universitat Berlin, Germany
+Yuri Demchenko, University of Amsterdam, Netherlands
+José Ignacio Aznar Baranda, I2CAT, Spain
+Robert Branchat, SixSq Sarl, Switzerland
+Charles Loomis, SixSq Sarl, Switzerland – Presenter
+Oleg Lodygensky, LAL, Universite Paris Sud 11, France
+Christophe Blanchet, Institute of Bioinformatics, France  
+
+#### Enabling Automated Network Services Provisioning for Cloud Based Applications Using the Zero Touch Provisioning 
+Yuri Demchenko <y.demchenko@uva.nl>, University of Amsterdam
+Sonja Filiposka <sonja.filiposka@finki.ukim.mk>, University of Ss. Cyril and Methodius, FYR Macedonia - Presenter
+Raimundas Tuminauskas, Kaunas University of Technology/LITNET, Lithuania 
+Anastas Mishev, University of Ss. Cyril and Methodius, FYR Macedonia
+Kurt Baumann, SWITCH, Switzerland
+Damir Regvart CARNET, Croatia
+Tony Breach, NORDUnet, Danmark
+
+#### TE-Cast: Supporting General Broadcast/Multicast Communications in Virtual Networks 
+Keisuke Matsuo <k-matsuo@matlab.nitech.ac.jp>, Nagoya Institute of Technology, Japan
+Ryota Kawashima <kawa1983@ieee.org>, Nagoya Institute of Technology, Japan 
+Hiroshi Matsuo <matsuo@nitech.ac.jp>, Nagoya Institute of Technology, Japan 
+
+#### Session 2  (11:00-12:30) 
+
+#### Intercloud Control and Management Plane with XMPP 
+Peter Membrey <peter@membrey.hk>, Hong Kong Polytechnic University, Hong Kong
+Yuri Demchenko, University of Amsterdam, Netherlands - Presenter 
+
+#### Tutorial: Tools for large scale cloud based applications deployment 
+ Yuri Demchenko, University of Amsterdam, Netherlands
+Charles Loomis, SixSq Sarl, Switzerland 
+
+#### Round table discussion “Intercloud service delivery infrastructure: Technological, Operational and Policy aspects” 
 
