@@ -124,10 +124,10 @@ Miroslav Zivkovic, University of Amsterdam
 
 #### Session 1 (9:00-10:30)
 
-#### Introduction: Workshop goal and community
+#### 1. Introduction: Workshop goal and community
 Yuri Demchenko, University of Amsterdam, Netherlands
 
-#### CYCLONE Unified Deployment and Management of Federated, Multi-Cloud Applications 
+#### 2. CYCLONE Unified Deployment and Management of Federated, Multi-Cloud Applications 
 Mathias Slawik <mathias.slawik@tu-berlin.de>, Begüm Ilke Zilci, SNET, Technische Universitat Berlin, Germany
 Yuri Demchenko, University of Amsterdam, Netherlands
 José Ignacio Aznar Baranda, I2CAT, Spain
@@ -136,7 +136,7 @@ Charles Loomis, SixSq Sarl, Switzerland – Presenter
 Oleg Lodygensky, LAL, Universite Paris Sud 11, France
 Christophe Blanchet, Institute of Bioinformatics, France  
 
-#### Enabling Automated Network Services Provisioning for Cloud Based Applications Using the Zero Touch Provisioning 
+#### 3. Enabling Automated Network Services Provisioning for Cloud Based Applications Using the Zero Touch Provisioning 
 Yuri Demchenko <y.demchenko@uva.nl>, University of Amsterdam
 Sonja Filiposka <sonja.filiposka@finki.ukim.mk>, University of Ss. Cyril and Methodius, FYR Macedonia - Presenter
 Raimundas Tuminauskas, Kaunas University of Technology/LITNET, Lithuania 
@@ -145,20 +145,20 @@ Kurt Baumann, SWITCH, Switzerland
 Damir Regvart CARNET, Croatia
 Tony Breach, NORDUnet, Danmark
 
-#### TE-Cast: Supporting General Broadcast/Multicast Communications in Virtual Networks 
+#### 4. TE-Cast: Supporting General Broadcast/Multicast Communications in Virtual Networks 
 Keisuke Matsuo <k-matsuo@matlab.nitech.ac.jp>, Nagoya Institute of Technology, Japan
 Ryota Kawashima <kawa1983@ieee.org>, Nagoya Institute of Technology, Japan 
 Hiroshi Matsuo <matsuo@nitech.ac.jp>, Nagoya Institute of Technology, Japan 
 
 #### Session 2  (11:00-12:30) 
 
-#### Intercloud Control and Management Plane with XMPP 
+#### 5. Intercloud Control and Management Plane with XMPP 
 Peter Membrey <peter@membrey.hk>, Hong Kong Polytechnic University, Hong Kong
 Yuri Demchenko, University of Amsterdam, Netherlands - Presenter 
 
-#### Tutorial: Tools for large scale cloud based applications deployment 
+#### 6. Tutorial: Tools for large scale cloud based applications deployment 
  Yuri Demchenko, University of Amsterdam, Netherlands
 Charles Loomis, SixSq Sarl, Switzerland 
 
-#### Round table discussion “Intercloud service delivery infrastructure: Technological, Operational and Policy aspects” 
+#### 7. Round table discussion “Intercloud service delivery infrastructure: Technological, Operational and Policy aspects” 
 
