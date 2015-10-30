@@ -128,9 +128,36 @@ David Bernstein, Founder/Chief Architect, IEEE P2302 Intercloud Standards Workin
 
 Chunming Rong (TBC), University of Stavanger
 
-### Technical Program Committee 
+### Technical Program Committee (pending)
 
-TBD
+Krishna Sankar, Tata Consultancy Services
+
+Sheng Di, INRIA
+
+Chathura M.S.Magurawalage, University of Essex
+
+Vineet Chadha, Huawei
+
+Payal Saluja, CDAC
+
+Craig Lee, The Aerospace Corporation
+
+Pero Subasic, DoCoMo Innovations
+
+Xingwei Wang, College of Information Science and Engineering, Northeastern University
+
+Zhou Quan, Ganzhou University
+
+Erdal Cayirci, University of Stavanger
+
+Dehua Chen, Donghua University
+
+Martin Gilje Jaatun, SINTEF ICT
+
+Sonja Filiposka, Ss. Cyril and Methodius University - Skopje
+
+Kostiantyn Kharchenko, NTUU-KPI
+
 
 ### Invited Speakers
 
