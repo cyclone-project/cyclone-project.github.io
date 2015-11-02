@@ -1,5 +1,5 @@
 ---
-title: Interloud 2016 Workshop - In conjunction with IC2E2016 on April 04-08, 2016, Berlin, Germany
+title: Intercloud 2016 Workshop - In conjunction with IC2E2016 on April 04-08, 2016, Berlin, Germany
 ---
 
 ### Call for papers
