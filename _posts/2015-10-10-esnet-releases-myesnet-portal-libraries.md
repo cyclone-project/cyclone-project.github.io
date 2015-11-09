@@ -7,10 +7,10 @@ ESnet is making available the software to create multi-domain network maps.
 OCTOBER 2, 2015
 <!-- more -->
 
-By making the libraries are made available, the team hopes that other organizations will take the code, use it, 
+By making the libraries available, the team hopes that other organizations will take the code, use it, 
 add to it and work with ESnet to make the improvements available to the community. “Ideally, other folks will 
 come up with new and interesting ways to look at their data since they don’t need to re-create the visualizations 
-these libraries provide
+these libraries provide.
 
 When ESnet, the Department of Energy’s (DOE) Energy Sciences Network, unveiled its online interactive network 
 portal called MyESnet in July of 2011, the reaction was strongly positive – other research and education networks 
