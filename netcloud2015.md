@@ -91,7 +91,7 @@ Paper submission website: <https://easychair.org/conferences/?conf=netcloud2015>
 
 ### Review procedure 
 
-All submitted paper will be reviewed by international program committee.
+All submitted papers will be reviewed by international program committee.
 
 ### Workshop Organizers
 
