@@ -6,7 +6,7 @@ D2.4,WP2,Final Dissemination and Communication Plan ,2016-11-30,
 D2.5,WP2,Dissemination Report - Year 1,2015-12-31,
 D2.6,WP2,Dissemination Report - Year 2,2016-12-30
 D2.7,WP2,Dissemination Report - Final,2017-11-30
-D3.1,WP3,Evaluation of Use Cases,2015-10-30
+D3.1,WP3,Evaluation of Use Cases,2015-10-30,review
 D3.2,WP3,Consolidated Evaluation of Use Cases,2016-10-31
 D3.3,WP3,Final Evaluation of Use Cases,2017-10-31
 D3.4,WP3,Business Plans and Potential Market,2017-11-30
@@ -24,6 +24,6 @@ D6.2,WP6,"Specification of Interfaces for Brokering, Deployment, and Management"
 D6.3,WP6,Solutions for Non-functional Aspects of Cloud Applications,2016-09-30
 D6.4,WP6,"Summary of Provided Brokering, Deployment, and Management Features",2017-09-29
 D7.1,WP7,Description of testbed,2015-07-31,review
-D7.2,WP7,Overlay with focus on component manager,2015-10-30
+D7.2,WP7,Overlay with focus on component manager,2015-10-30,review
 D7.3,WP7,Overlay with focus on resource manager and SDN,2016-04-29
 D7.4,WP7,Inclusion of features asked by developers,2017-06-30
