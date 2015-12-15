@@ -18,6 +18,9 @@ For CYCLONE, the following take the roles depending on the SlipStream instance u
 3. cyclone on a SixSq maintained SlipStream instance (in progress) - SixSq, SixSq Image maintainer, clouds that nuvla has connectors to and LAL, not applicable, any eduGAIN user
 
 # Appliance Creation Workflow
+The current deployment uses option 2 above. The base images on the SlipStream app store are maintained by Slipstream image metadata maintainer. The base images point at Stratuslab images/appliances which are maintained by Stratuslab. Currently, if a Stratuslab appliance further is needed by someone for a period, it is the responsibility of this person should endorse the image for that period. However, long endorsement periods are not encouraged and updates to the slipstream base images with the latest Stratuslab appliances is recommended.
+
+
 
 
 
