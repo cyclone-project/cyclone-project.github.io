@@ -15,6 +15,7 @@ April 4 - 8, 2016, Berlin, Germany
 
 
 DEADLINE Paper submission  29 December 2015  --  EXTENDED
+
 Paper submission website - <https://easychair.org/conferences/?conf=intercloud2016>
 
 ### SCOPE AND OBJECTIVES	
@@ -113,7 +114,8 @@ Accepted papers will be published in the IC2E2016 proceedings.
 
 ### Paper submission website 
 
-To be announced.
+Paper submission website - <https://easychair.org/conferences/?conf=intercloud2016>
+
 
 ### Review procedure 
 
