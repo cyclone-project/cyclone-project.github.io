@@ -6,7 +6,7 @@ title: Intercloud 2016 Workshop - In conjunction with IC2E2016 on April 04-08, 2
 
 ### Fifth IEEE International Workshop on Cloud Computing Interclouds, Multiclouds, Federations, and Interoperability (Intercloud 2016)
 
-<http://www.cyclone-project.eu/intercloud2016/>
+<http://www.cyclone-project.eu/intercloud2016.html>
 
 In conjunction with the IEEE International Conference on Cloud Engineering (IC2E)
 <http://conferences.computer.org/IC2E/2016/>
@@ -15,6 +15,7 @@ April 4 - 8, 2016, Berlin, Germany
 
 
 DEADLINE Paper submission  29 December 2015  --  EXTENDED
+Paper submission website - <https://easychair.org/conferences/?conf=intercloud2016>
 
 ### SCOPE AND OBJECTIVES	
 
