@@ -14,7 +14,7 @@ In conjunction with the IEEE International Conference on Cloud Engineering (IC2E
 April 4 - 8, 2016, Berlin, Germany
 
 
-DEADLINE Paper submission  15 December 2015  
+DEADLINE Paper submission  29 December 2015  --  EXTENDED
 
 ### SCOPE AND OBJECTIVES	
 
@@ -95,11 +95,11 @@ infrastructure, services and applications related to listed above topics of inte
 
 ### Important Dates:
 
-Paper Submissions: December 15, 2015 
+Paper Submissions: December 29, 2015 - EXTENDED
 
-Notification: January 10, 2016
+Notification: January 17, 2016
 
-Camera-ready: January 26, 2016 
+Camera-ready: January 29, 2016 
 
 InterCloud2016 workshop (during IC2E2016 Conference): 8-10 April 2016 
 
@@ -154,9 +154,10 @@ Dehua Chen, Donghua University
 
 Martin Gilje Jaatun, SINTEF ICT
 
-Sonja Filiposka, Ss. Cyril and Methodius University - Skopje
+Sonja Filiposka, Ss. Cyril and Methodius University - Skopje, Macedonia
 
-Kostiantyn Kharchenko, NTUU-KPI
+Kostiantyn Kharchenko, NTUU-KPI, Ukraine
+
 
 
 ### Invited Speakers
