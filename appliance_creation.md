@@ -7,7 +7,7 @@ There are four roles:
 - Cloud deployment tool host: Holds a pointer to the cloud image metadata maintainer
 - Cloud image metadata maintainer: Updates the image identifiers for the base images
 - Cloud image holder: Stores and provides the image file itself
-- Image metadata endorser(On Stratuslab)  
+- Image metadata endorser  
 - Cloud appliance developer
 
 
