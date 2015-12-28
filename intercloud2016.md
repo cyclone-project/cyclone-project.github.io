@@ -14,7 +14,7 @@ In conjunction with the IEEE International Conference on Cloud Engineering (IC2E
 April 4 - 8, 2016, Berlin, Germany
 
 
-DEADLINE Paper submission  29 December 2015  --  EXTENDED
+DEADLINE Paper submission  11 January 2016  --  FINAL EXTENTION
 
 Paper submission website - <https://easychair.org/conferences/?conf=intercloud2016>
 
@@ -97,7 +97,7 @@ infrastructure, services and applications related to listed above topics of inte
 
 ### Important Dates:
 
-Paper Submissions: December 29, 2015 - EXTENDED
+Paper Submissions: 11 January 2016  --  FINAL EXTENTION
 
 Notification: January 17, 2016
 
