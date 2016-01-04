@@ -103,7 +103,7 @@ Notification: January 25, 2016
 
 Camera-ready: February 1, 2016
 
-InterCloud2016 workshop (during IC2E2016 Conference): 8-10 April 2016 
+InterCloud2016 workshop (during IC2E2016 Conference): 4-8 April 2016 
 
 ### Paper submission instructions
 
