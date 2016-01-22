@@ -1,14 +1,14 @@
 ---
-title: CYCLONE Test Federation Provider Privacy Policy
+title: CYCLONE Federation Provider Privacy Policy
 layout: default
 ---
 ## Name of the Service
 
-CYCLONE Test Federation Provider
+CYCLONE Federation Provider
 
 ## Description of the service
 
-The CYCLONE Test Federation Provider is used for demonstration purposes within the CYCLONE project.
+The CYCLONE Federation Provider is used for demonstration purposes within the CYCLONE project.
 
 # Data controller and a contact person
 
@@ -26,12 +26,16 @@ DE-BE Germany Berlin
 
 ### The following data is retrieved from your Home Organisation
 
- - your unique user identifier (eduPersonPrincipalName)
- - your relationship(s) to your institution (eduPersonAffiliation)
- - your preferred name when displaying entries (displayName)
- - your home organization's domain name (schacHomeOrganization)
+- your unique, persistent, opaque and targeted identifier (persistentID)
+- your unique user identifier (eduPersonPrincipalName)
+- your preferred name (displayName)
+- your name and surname (commonName)
+- your email (mail)
+- your relationship(s) to your institution (eduPersonAffiliation, eduPersonScopedAffiliation)
+- your home organization's domain name and type (schacHomeOrganization, schacHomeOrganizationType)
 
 ### The following data is requested from yourself
+
  - This depends on the specific CYCLONE demonstrator, whose privacy policy you'll find on its website.
 
 # Purpose of the processing of personal data
