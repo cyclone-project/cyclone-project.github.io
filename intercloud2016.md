@@ -99,9 +99,9 @@ infrastructure, services and applications related to listed above topics of inte
 
 Paper Submissions: 11 January 2016  --  FINAL EXTENSION
 
-Notification: January 25, 2016
+Notification: February 8, 2016
 
-Camera-ready: February 1, 2016
+Camera-ready: February 16, 2016
 
 InterCloud2016 workshop (during IC2E2016 Conference): 4-8 April 2016 
 
