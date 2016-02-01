@@ -8,15 +8,24 @@ CYCLONE Federation Provider
 
 ## Description of the service
 
-The CYCLONE Federation Provider is used for demonstration purposes within the CYCLONE project.
+The CYCLONE Federation Provider is used for demonstration purposes within the CYCLONE project. It allows seamless web single sign-on of eduGAIN users into the CYCLONE demonstrators. 
 
-# Data controller and a contact person
+# Contact: Data controller of TU Berlin
 
+Annette Freifrau Hiller von Gaertringen, [annette.freifrauhillervongaertringen@tu-berlin.de](mailto:annette.freifrauhillervongaertringen@tu-berlin.de)<br/>
 Technische Universit&auml;t Berlin<br/>
 Stra&szlig;e des 17. Juni 135<br/>
 10623 Berlin
 
-Mathias Slawik, [mathias.slawik@tu-berlin.de](mailto:mathias.slawik@tu-berlin.de)
+# Contact: CYCLONE staff of TU Berlin / SNET
+
+Mathias Slawik, [mathias.slawik@tu-berlin.de](mailto:mathias.slawik@tu-berlin.de)<br/>
+Begüm İlke Zilci, [ilke.zilci@tu-berlin.de](mailto:ilke.zilci@tu-berlin.de)
+
+Service-centric Networking<br/>
+Telekom Innovation Laboratories<br/>
+Ernst-Reuter-Platz 7<br/>
+10587 Berlin, Germany
 
 # Jurisdiction
 
@@ -24,7 +33,7 @@ DE-BE Germany Berlin
 
 # Personal data processed
 
-### The following data is retrieved from your Home Organisation
+### The following data is retrieved from your Home Organisation, if it is available
 
 - your unique, persistent, opaque and targeted identifier (persistentID)
 - your unique user identifier (eduPersonPrincipalName)
@@ -36,7 +45,7 @@ DE-BE Germany Berlin
 
 ### The following data is requested from yourself
 
- - This depends on the specific CYCLONE demonstrator, whose privacy policy you'll find on its website.
+This depends on the specific CYCLONE demonstrator. Normally, no further data is requested from yourself.
 
 # Purpose of the processing of personal data
 
@@ -49,11 +58,11 @@ Personal data and log files are used for:
 
 # Third parties to whom personal data is disclosed
 
-Personal data is not disclosed to 3rd parties.
+Personal data is not disclosed to 3rd parties outside of the CYCLONE research project.
 
 # How to access, rectify and delete the personal data
 
-Contact the contact person above.
+Please contact the CYCLONE staff of TU Berlin.
 
 To rectify the data released by your Home Organisation, contact your Home Organisation's IT helpdesk.
 
