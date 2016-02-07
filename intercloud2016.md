@@ -133,33 +133,30 @@ Chunming Rong (TBC), University of Stavanger
 
 ### Technical Program Committee (pending)
 
-Krishna Sankar, Tata Consultancy Services
-
-Sheng Di, INRIA
-
-Chathura M.S.Magurawalage, University of Essex
-
 Vineet Chadha, Huawei
 
-Payal Saluja, CDAC
-
-Craig Lee, The Aerospace Corporation
-
-Pero Subasic, DoCoMo Innovations
-
-Xingwei Wang, College of Information Science and Engineering, Northeastern University
-
-Zhou Quan, Ganzhou University
-
-Erdal Cayirci, University of Stavanger
-
-Dehua Chen, Donghua University
-
-Martin Gilje Jaatun, SINTEF ICT
+Sheng Di, INRIA, France
 
 Sonja Filiposka, Ss. Cyril and Methodius University - Skopje, Macedonia
 
+Martin Gilje Jaatun, SINTEF ICT
+
 Kostiantyn Kharchenko, NTUU-KPI, Ukraine
+
+Craig Lee, The Aerospace Corporation, USA
+
+Chathura M.S.Magurawalage, University of Essex, UK
+
+Zhou Quan, Ganzhou University, China
+
+Payal Saluja, CDAC, India
+
+Xingwei Wang, College of Information Science and Engineering, Northeastern University, China
+
+Alexander Willner, TU Berlin, Germany
+
+Miroslav Zivkovic, University of Amsterdam, Netherlands
+
 
 
 
