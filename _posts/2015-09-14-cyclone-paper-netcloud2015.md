@@ -1,14 +1,21 @@
 ---
-title: CYCLONE will present a research paper at the 5th Intercloud2016 workshop
+title: CYCLONE will present a first position paper at 5th NetCloud2015 workshop
 ---
-#### CYCLONE will present a position paper at the 5th Intercloud2016 workshop collocated with IC2E Conference on 4-8 April 2016 in Berlin 
+#### CYCLONE will present a position paper at the 5th NetCloud2015 workshop
 
-CYCLONE will present a second research paper at the 5th Intercloud2016 workshop that will be collocated with the IC2E Conference on 4-8 April 2016 in Berlin, Germany
+CYCLONE will present a first position paper at 5th NetCloud2015 workshop that will be collocated with the UCC2015
+conference December 07-10, 2015 – St. Raphael Resort, Limassol, Cyprus
 <!-- more -->
-The paper is focused on usecases analysis and definition of requirements to the main CYCLONE platform components to enable multi-cloud and inter-cloud applications deployment automation.
+The paper will present the CYCLONE project vision about multi-cloud and inter-cloud applications deployment automation.
 
 Paper Abstract:
+Various Cloud layers have to work in concert in order to manage and deploy complex multicloud applications, executing
+sophisticated workflows for Cloud resource deployment, activation, adjustment, interaction, and monitoring. While there
+are ample solutions for managing individual Cloud aspects (e.g. network controllers, deployment tools, and application
+security software), there are no well integrated
+suites for managing the entire Cloud stack, especially within multi-cloud and multi-provider scenarios.
 
-This paper presents results of the ongoing development of the CYCLONE as a platform for scientific applications in heterogeneous multi-cloud/multi-provider environment. The paper explains the general use case that provides a general motivation for the CYCLONE architecture and provides detailed analysis of the bioinformatics use cases that define specific requirements to the CYCLONE infrastructure components. Special attention is given to the federated access control and security infrastructure that must provide consistent security and data protection for distributed bioinformatics data processing infrastructure and distributed cross-organisations collaborating teams of scientists. 
-
-The paper provides information about selected use cases implementation using SlipStream cloud automation and management platform and StratusLab scientific cloud platform. The paper also addresses requirements for providing dedicated intercloud network infrastructure which is not currently addressed by cloud providers (both public and scientific/community). Further research and developments suggestions are provided to address multi-cloud issues, DevOps environment integration, and stricter data protection issues.
+The paper presents the CYCLONE architecture that integrates a number of existing solutions to create a unified,
+holistic Cloud management platform for single- and multi-cloud applications, tailored to the needs of research
+organizations and SMEs. It discusses major challenges in providing a network and security infrastructure for
+the Intercloud and concludes with the demonstration how the architecture is implemented in a real life bioinformatics use case.
