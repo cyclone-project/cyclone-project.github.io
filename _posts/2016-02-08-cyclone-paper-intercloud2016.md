@@ -4,7 +4,9 @@ title: CYCLONE will present a research paper at the 5th Intercloud2016 workshop
 #### CYCLONE will present a position paper at the 5th Intercloud2016 workshop collocated with IC2E Conference on 4-8 April 2016 in Berlin
 
 CYCLONE will present a second research paper at the 5th Intercloud2016 workshop that will be collocated with the IC2E Conference on 4-8 April 2016 in Berlin, Germany
+
 <!-- more -->
+
 The paper is focused on usecases analysis and definition of requirements to the main CYCLONE platform components to enable multi-cloud and inter-cloud applications deployment automation.
 
 Paper Abstract:
