@@ -22,6 +22,8 @@
            url: "/tutorials.html"
          - name: "Deliverables"
            url: "/deliverables.html"
+         - name: "Newsletters"
+           url: "/newsletters.html"
 
 - name: "Contact Us"
   url: "/contact.html"
