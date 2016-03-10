@@ -15,3 +15,7 @@ layout: default
 [Stratuslab Tutorial Client Usage](/assets/images/tutorials/stratuslabTutorial03.pdf)
 
 [OpenNaaS Tutorial](/assets/images/tutorials/OpenNaaSTutorial.pdf)
+
+## Presentations
+
+[Turnkey appliances for biological use cases on federated clouds](Turnkey-IFB-ELIXIR.pdf)
