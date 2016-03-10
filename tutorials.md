@@ -18,4 +18,4 @@ layout: default
 
 ## Presentations
 
-[Turnkey appliances for biological use cases on federated clouds](Turnkey-IFB-ELIXIR.pdf)
+[Turnkey appliances for biological use cases on federated clouds](/assets/images/tutorials/Turnkey-IFB-ELIXIR.pdf)
