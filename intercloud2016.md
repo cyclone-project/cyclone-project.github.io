@@ -2,7 +2,6 @@
 title: Intercloud 2016 Workshop - In conjunction with IC2E2016 on April 04-08, 2016, Berlin, Germany
 ---
 
-### Call for papers
 
 ### Fifth IEEE International Workshop on Cloud Computing Interclouds, Multiclouds, Federations, and Interoperability (Intercloud 2016)
 
@@ -14,9 +13,36 @@ In conjunction with the IEEE International Conference on Cloud Engineering (IC2E
 April 4 - 8, 2016, Berlin, Germany
 
 
-DEADLINE Paper submission  11 January 2016  --  FINAL EXTENSION
+### WORKSHOP PROGRAMME - 4 April 2016 (afternoon)
 
-Paper submission website - <https://easychair.org/conferences/?conf=intercloud2016>
+P1. CYCLONE: A Platform for Data Intensive Scientific Applications in Heterogeneous Multi-cloud/Multi-provider Environment
+
+Yuri Demchenko, Christophe Blanchet, Charles Loomis, Rob Branchat, Mathias Slawik, Ilke Zilci (presenter), Mohamed Bedri, Jean-François Gibrat, Oleg Lodygensky, Miroslav Zivkovic, Cees de Laat
+
+P2. A Keystone-based General Federation Agent
+
+Craig Lee (presenter), Emily Dimpfl and Stephen Cathers
+
+P3. Modeling a IaaS Broker based on two Cloud Computing Reference Models
+ 
+Juliana Teixeira, Carlos Salgado and Ricardo Machado
+
+P4. A Predicate Logic-defined Specification Method for Systems Deployed by Intercloud Brokerages
+ 
+Katsunori Miura, Masaharu Munetomo
+
+P5. Deploying Distributed Cloud Infrastructures: Who and at What Cost?
+
+Anthony Simonet, Adrien Lebre and Anne-Cécile Orgerie
+
+P6. ZeroTouch Provisioning (ZTP) Model and Infrastructure Components for Multi-provider Cloud Services Provisioning
+ 
+Yuri Demchenko, Sonja Filiposka (presenter), Migiel Vos, Damir Regvart, Tasos Karaliotas
+
+
+------------------------------------------------
+
+### Call for papers (past)
 
 ### SCOPE AND OBJECTIVES	
 
@@ -114,7 +140,7 @@ Accepted papers will be published in the IC2E2016 proceedings.
 
 ### Paper submission website 
 
-Paper submission website - <https://easychair.org/conferences/?conf=intercloud2016>
+Paper submission website - <https://easychair.org/conferences/?conf=intercloud2016> (CLOSED)
 
 
 ### Review procedure 
