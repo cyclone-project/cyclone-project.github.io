@@ -7,3 +7,4 @@ We presented the Cyclone project at <a href="https://indico.math.cnrs.fr/event/9
 
 The presentation introduced the CYCLONE project in general, its roadmap and goals, involved parterns and technologies. The presentation has been illustrated Bioinformatics and Energy usecases considered in the project. 
 
+The <a href="http://marketplace.stratuslab.eu/">marketplace</a> and < href="https://nuv.la">nuv.la</a> have been demonstrated.
