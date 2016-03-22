@@ -7,7 +7,7 @@ CYCLONE member Bryan Brancotte presented his talk with the title "Turnkey applia
 
 <!-- more -->
 
-The presentation took place on the 8th of March. The audience was 'members of the ELIXIR community from across the ELIXIR Nodes, and collaborators from partner organisations'.
+The presentation took place on the 8th of March. The audience was 'members of the ELIXIR community from across the ELIXIR Nodes, and collaborators from partner organisations'. The audience was particularly interested at our ssh authentication using eduGAIN federated login account.
 
 Details on the conference and the track:
 <https://www.elixir-europe.org/events/elixir-all-hands-2016>
