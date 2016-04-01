@@ -15,6 +15,8 @@ April 4 - 8, 2016, Berlin, Germany
 
 ### WORKSHOP PROGRAMME - 4 April 2016 (13:30-17:30)
 
+Chairs: Ilke Zilci (TUB, Germany), Sonja Filiposka (Ss. Cyril and Methodius University in Skopje, Macedonia)
+
 Session 1 (13:30 - 15:00)
 
 1. CYCLONE: A Platform for Data Intensive Scientific Applications in Heterogeneous Multi-cloud/Multi-provider Environment
