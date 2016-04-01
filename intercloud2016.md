@@ -18,7 +18,7 @@ April 4 - 8, 2016, Berlin, Germany
 Chairs: Ilke Zilci (TUB, Germany), Sonja Filiposka (Ss. Cyril and Methodius University in Skopje, Macedonia)
 
  
-Session 1 (13:30 - 15:00)
+#### Session 1 (13:30 - 15:00)
  
 
 p1. CYCLONE: A Platform for Data Intensive Scientific Applications in Heterogeneous Multi-cloud/Multi-provider Environment
@@ -38,10 +38,10 @@ P4. A Predicate Logic-defined Specification Method for Systems Deployed by Inter
 Katsunori Miura, Masaharu Munetomo
 
  
-15:00 - 15:30 Coffee break
+#### 15:00 - 15:30 Coffee break
  
 
-Session 2 (15:30 - 16:30)
+#### Session 2 (15:30 - 16:30)
  
 
 P5. Deploying Distributed Cloud Infrastructures: Who and at What Cost?
@@ -53,7 +53,7 @@ P6. ZeroTouch Provisioning (ZTP) Model and Infrastructure Components for Multi-p
 Sonja Filiposka (presenter), Yuri Demchenko, Migiel Vos, Damir Regvart, Tasos Karaliotas
 
  
-Session 3 (16:30 - 17:30)
+#### Session 3 (16:30 - 17:30)
  
 
 Tutorial Multicloud cloud applications deployment with SlipStream and CYCLONE platform
