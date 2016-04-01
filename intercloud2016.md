@@ -17,27 +17,32 @@ April 4 - 8, 2016, Berlin, Germany
 
 Chairs: Ilke Zilci (TUB, Germany), Sonja Filiposka (Ss. Cyril and Methodius University in Skopje, Macedonia)
 
+
 Session 1 (13:30 - 15:00)
 
-1. CYCLONE: A Platform for Data Intensive Scientific Applications in Heterogeneous Multi-cloud/Multi-provider Environment
+
+p1. CYCLONE: A Platform for Data Intensive Scientific Applications in Heterogeneous Multi-cloud/Multi-provider Environment
 
 Ilke Zilci (presenter), Yuri Demchenko, Christophe Blanchet, Charles Loomis, Rob Branchat, Mathias Slawik, Mohamed Bedri, Jean-François Gibrat, Oleg Lodygensky, Miroslav Zivkovic, Cees de Laat
 
-2. A Keystone-based General Federation Agent
+P2. A Keystone-based General Federation Agent
 
 Craig Lee (presenter), Emily Dimpfl and Stephen Cathers
 
-3. Modeling a IaaS Broker based on two Cloud Computing Reference Models
+P3. Modeling a IaaS Broker based on two Cloud Computing Reference Models
  
 Juliana Teixeira, Carlos Salgado and Ricardo Machado
 
-4. A Predicate Logic-defined Specification Method for Systems Deployed by Intercloud Brokerages
+P4. A Predicate Logic-defined Specification Method for Systems Deployed by Intercloud Brokerages
  
 Katsunori Miura, Masaharu Munetomo
 
+
 15:00 - 15:30 Coffee break
 
+
 Session 2 (15:30 - 16:30)
+
 
 P5. Deploying Distributed Cloud Infrastructures: Who and at What Cost?
 
@@ -47,7 +52,9 @@ P6. ZeroTouch Provisioning (ZTP) Model and Infrastructure Components for Multi-p
  
 Sonja Filiposka (presenter), Yuri Demchenko, Migiel Vos, Damir Regvart, Tasos Karaliotas
 
+
 Session 3 (16:30 - 17:30)
+
 
 Tutorial Multicloud cloud applications deployment with SlipStream and CYCLONE platform
 
