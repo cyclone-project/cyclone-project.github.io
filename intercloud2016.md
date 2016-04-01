@@ -13,23 +13,29 @@ In conjunction with the IEEE International Conference on Cloud Engineering (IC2E
 April 4 - 8, 2016, Berlin, Germany
 
 
-### WORKSHOP PROGRAMME - 4 April 2016 (afternoon)
+### WORKSHOP PROGRAMME - 4 April 2016 (13:30-17:30)
 
-P1. CYCLONE: A Platform for Data Intensive Scientific Applications in Heterogeneous Multi-cloud/Multi-provider Environment
+Session 1 (13:30 - 15:00)
 
-Yuri Demchenko, Christophe Blanchet, Charles Loomis, Rob Branchat, Mathias Slawik, Ilke Zilci (presenter), Mohamed Bedri, Jean-François Gibrat, Oleg Lodygensky, Miroslav Zivkovic, Cees de Laat
+1. CYCLONE: A Platform for Data Intensive Scientific Applications in Heterogeneous Multi-cloud/Multi-provider Environment
 
-P2. A Keystone-based General Federation Agent
+Ilke Zilci (presenter), Yuri Demchenko, Christophe Blanchet, Charles Loomis, Rob Branchat, Mathias Slawik, Mohamed Bedri, Jean-François Gibrat, Oleg Lodygensky, Miroslav Zivkovic, Cees de Laat
+
+2. A Keystone-based General Federation Agent
 
 Craig Lee (presenter), Emily Dimpfl and Stephen Cathers
 
-P3. Modeling a IaaS Broker based on two Cloud Computing Reference Models
+3. Modeling a IaaS Broker based on two Cloud Computing Reference Models
  
 Juliana Teixeira, Carlos Salgado and Ricardo Machado
 
-P4. A Predicate Logic-defined Specification Method for Systems Deployed by Intercloud Brokerages
+4. A Predicate Logic-defined Specification Method for Systems Deployed by Intercloud Brokerages
  
 Katsunori Miura, Masaharu Munetomo
+
+15:00 - 15:30 Coffee break
+
+Session 2 (15:30 - 16:30)
 
 P5. Deploying Distributed Cloud Infrastructures: Who and at What Cost?
 
@@ -37,10 +43,18 @@ Anthony Simonet, Adrien Lebre and Anne-Cécile Orgerie
 
 P6. ZeroTouch Provisioning (ZTP) Model and Infrastructure Components for Multi-provider Cloud Services Provisioning
  
-Yuri Demchenko, Sonja Filiposka (presenter), Migiel Vos, Damir Regvart, Tasos Karaliotas
+Sonja Filiposka (presenter), Yuri Demchenko, Migiel Vos, Damir Regvart, Tasos Karaliotas
+
+Session 3 (16:30 - 17:30)
+
+Tutorial Multicloud cloud applications deployment with SlipStream and CYCLONE platform
+
+Rob Branchat, SixSq
 
 
 ------------------------------------------------
+------------------------------------------------
+
 
 ### Call for papers (past)
 
