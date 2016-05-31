@@ -17,8 +17,8 @@ about how to use SlipStream to:
 The participants used the project's testbed consisting of
 [Nuvla](https://nuv.la/) and the StratusLab and OpenStack clouds at
 the [Laboratoire de l'Accélérateur Linear
-(LAL)](http://www.lal.in2p3.fr/) as well as the Exoscale public
-cloud. The testbed will soon include cloud resources from
+(LAL)](http://www.lal.in2p3.fr/) as well as the [Exoscale](https://www.exoscale.ch)
+public cloud. The testbed will soon include cloud resources from
 [QSC](https://www.qsc.de/de/) and
 [Interoute](http://www.interoute.com), two other CYCLONE partners.
 
