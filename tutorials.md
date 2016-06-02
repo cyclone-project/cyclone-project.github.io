@@ -16,9 +16,4 @@ layout: default
 
 [OpenNaaS Tutorial](/assets/images/tutorials/OpenNaaSTutorial.pdf)
 
-## Presentations
 
-[Turnkey appliances for biological use cases on federated clouds](/assets/images/tutorials/Turnkey-IFB-ELIXIR.pdf)
-
-## Posters
-[CYCLONE at Cloudscape](/assets/images/tutorials/CloudscapePoster.pdf)

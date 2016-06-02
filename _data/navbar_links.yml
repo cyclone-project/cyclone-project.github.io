@@ -20,6 +20,8 @@
            url: "/press.html"
          - name: "Tutorials"
            url: "/tutorials.html"
+         - name: "Publications"
+           url: "/publications.html"
          - name: "Deliverables"
            url: "/deliverables.html"
          - name: "Newsletters"
