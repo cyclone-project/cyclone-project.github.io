@@ -2,4 +2,9 @@
 
 title: i2CAT releases the firewalling network service
 
----I2CAT team released the first stable version of the firewalling cloud networking service. The service has been implemented with the OpenNaaS- Cyclone Network Services Manager/ Orchestrator (CNSMO) and integrated as an application within the Nuvla appliance, which is a SixSq PaaS product. Based on the security-group concept,<!-- more --> the firewalling service allows application developers to define packet filtering rules for application components, in a way they are not tied to particular CSP implementations and circumventing most common limitations of CSP managed security groups. The service is currently being integrated in CYCLONE flagship use cases applications for increased network security. Future plans include gathering possible improvements detected in mentioned integration phase and use them to enhance the service. Parallelly, based on the OpenNaaS-CNSMO platform the plan is to shortly release additional network services to be used by the CYCLONE project use cases.
+---
+
+i2CAT team released the first stable version of the firewalling cloud networking service. 
+The service has been implemented with the OpenNaaS- Cyclone Network Services Manager/ Orchestrator (CNSMO) and integrated as an application within the Nuvla appliance, which is a SixSq PaaS product. 
+Based on the security-group concept,<!-- more --> the firewalling service allows application developers to define packet filtering rules for application components, in a way they are not tied to particular CSP implementations and circumventing most common limitations of CSP managed security groups. 
+The service is currently being integrated in CYCLONE flagship use cases applications for increased network security. Future plans include gathering possible improvements detected in mentioned integration phase and use them to enhance the service. Parallelly, based on the OpenNaaS-CNSMO platform the plan is to shortly release additional network services to be used by the CYCLONE project use cases.
