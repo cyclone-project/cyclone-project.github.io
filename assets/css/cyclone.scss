@@ -3,6 +3,15 @@
 # only Main files contain this front matter, not partials.
 ---
 
+// Source http://www.pictaculous.com/
+$color-lightblue: #5392C7;
+$color-grey: #777B80;
+$color-dark: #000000;
+$color-darkblue: #012442;
+$color-lightgrey: #E2DFDA;
+
+$brand-info: $color-lightblue;
+
 $navbar-default-color:             #CCC;
 $navbar-default-bg:                #000;
 $navbar-default-border:            #000;
@@ -29,19 +38,26 @@ $navbar-default-toggle-border-color:       #ddd !default;
 //** Define the variable since it is before importing bootstrap
 $screen-md-min: 992px;
 //** Point at which the navbar becomes uncollapsed.
- $grid-float-breakpoint:     $screen-md-min;
+$grid-float-breakpoint:     $screen-md-min;
 //** Point at which the navbar begins collapsing.
- $grid-float-breakpoint-max: ($grid-float-breakpoint - 1);
+$grid-float-breakpoint-max: ($grid-float-breakpoint - 1);
 
 // Fonts
-$font-family-sans-serif:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$font-family-serif:       "Merriweather", Georgia, "Times New Roman", Times, serif;
+$font-family-sans-serif:  "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-family-serif:       Georgia, "Times New Roman", Times, serif;
 //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
 $font-family-monospace:   "Source Code Pro", Menlo, Monaco, Consolas, "Courier New", monospace;
-$font-family-base:        $font-family-serif;
+$font-family-base:        $font-family-sans-serif;
 
 $headings-font-family:    $font-family-sans-serif;
 $headings-font-weight:    700;
+
+//** Global textual link color.
+$link-color:            lighten($color-lightblue, 20%);
+//** Link hover color set via `darken()` function.
+$link-hover-color:      darken($link-color, 15%) !default;
+//** Link hover decoration.
+$link-hover-decoration: underline !default;
 
 $footer-height: 250px;
 $navbar-height: 70px;
@@ -54,6 +70,14 @@ html, body {
   height: 100%;
 }
 
+h1 {
+  font-weight: 900;
+}
+
+p.lead {
+  font-weight: 700;
+}
+
 body {
   position: relative;
   // padding: 50px 0 0 0;
@@ -64,6 +88,19 @@ body {
     height: 100%;
     /* Negative indent footer by it's height */
     margin: 0 auto (-1 * $footer-height);
+    background: url("/assets/images/clouds2.jpg");
+    background-size: cover;
+		background-position: center top;
+		background-attachment: fixed;
+    color: #FFF;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    > .container > .row {
+       background-color: rgba($color-darkblue,0.5); 
+
+    }
+    .fa-stack, a.btn {
+    	text-shadow: none;
+    }
   }
   
   
@@ -75,33 +112,46 @@ body {
     font-family: $font-family-sans-serif;
   }
    
-   a.navbar-brand img{
-   max-height:55px;
-   max-width: 100%;
+  a.navbar-brand img{
+    max-height:55px;
+    max-width: 100%;
     display: block;
- 	margin: 0 auto;
-   }
+ 	  margin: 0 auto;
+  }
     
   @media screen and (max-width: $screen-sm-min) {
      a.navbar-brand img{
      max-height: 45px;}
   }
 
-  .navbar{
-  min-height: 50px;
+  .navbar-fixed-top{
+    min-height: 50px;
+    background-color: black;
+    border: 0px solid transparent;
   }
   .grey-bg {
     background-color: #555;
   }
 
   .jumbotron {
-    background: url("/assets/images/clouds.jpg");
-    background-size: cover;
-    background-position-y: 50px;
-    color: #FFF;
-    text-shadow: black 0.1em 0.1em 0.2em;
-    padding-top: 50px;
-
+    background: transparent; 
+    .container {
+      text-align: center;
+      padding-top: 50px;
+      .claim {
+        display: inline-block;
+        background-color: rgba($color-darkblue, 0.5);
+        padding: 2em;
+        p {
+          margin: 0;
+        }
+        img {
+          max-height: 10em;
+          max-width: 100%;
+          margin-bottom: 1em;
+        } 
+      }
+    }
   }
 
   // Small jumbotron for page headers
@@ -121,7 +171,7 @@ body {
 
   .centering-img {
     display: block;
- 	margin: 0 auto;
+    margin: 0 auto;
     max-height: 40em;
     max-width: 100%;
   }
@@ -185,7 +235,7 @@ body {
 
   #push {
     height: $footer-height;
-    margin-top: 15px;
+    // margin-top: 15px;
   }
 
   footer.footer {
@@ -317,4 +367,12 @@ body.consortium {
   float: none; 
   width: 100% !important;  
   height: 300px !important;
+}
+
+body.home a.navbar-brand {
+  display: none;
+}
+
+.fa {
+	color: $color-lightblue;
 }

@@ -8,11 +8,15 @@
     <link href='/assets/images/favicon.ico' type='image/x-icon' rel='shortcut icon'/> 
     <link href="/assets/css/cyclone.css" rel="stylesheet"/>
     <link href="/assets/css/form_bootstrap.css" rel="stylesheet"/>
-    <link href='http://fonts.googleapis.com/css?family=Source+Code+Pro:500|Open+Sans:700|Merriweather' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,700,900|Source+Code+Pro' rel='stylesheet' type='text/css'>
+    <link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+    {% if site.serving == true %}
+    <script src='/assets/javascript/live.js'></script>
+    {% endif %}
 </head>
 <body data-spy="scroll" data-target="#toc" class="{{ page.title | downcase }}">
     <div id="wrap">
