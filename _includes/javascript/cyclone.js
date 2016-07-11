@@ -91,10 +91,8 @@ $(document).ready(function() {
 
     $('.affix-nav').affix({
         offset: {
-            top: function () {
-                return (this.top = $('.jumbotron-small, .jumbotron').outerHeight() - $('.navbar-fixed-top').outerHeight())
-            },
-            bottom: 0
+            top: 140,
+            bottom: 550
         }
     })
 });

@@ -1,5 +1,5 @@
-- name: "Home"
-  url: "/"
+- name: "Tools"
+  url: "/software.html"
 
 - name: "News"
   url: "/news.html"
@@ -9,9 +9,6 @@
 
 - name: "Consortium"
   url: "/consortium.html"
-
-- name: "Components"
-  url: "/software.html"
 
 - name: "Media"
   url: "/press.html"

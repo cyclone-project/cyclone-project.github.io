@@ -1,5 +1,5 @@
 ---
-title: About
+title: About the CYCLONE project
 layout: default
 ---
 ## Overview

@@ -2,18 +2,20 @@
 
 {% include nav.html %}
 
-<div class="jumbotron-small">
-    <div class="container">
-        <h1>{{ page.title }}</h1>
-    </div>
+<div class="container">
+	<div class="row">
+		<div class="col-md-8 col-md-offset-2">
+			<h1>{{ page.title }}</h1>
+		</div>
+	</div>
 </div>
 
 <div class="container">
     <div class="row">
-        <div class="col-md-9" role="main">
+        <div class="col-md-6 col-md-offset-1" role="main">
             {{ content }}
         </div>
-        <div class="col-md-3" role="complementary">
+        <div class="col-md-4 col-md-offset-1" role="complementary">
             <nav class="affix-nav hidden-print hidden-xs hidden-sm">
                 <div id="toc"></div>
             </nav>

@@ -6,78 +6,96 @@ layout: blank
 
 {% include nav.html %}
 
-<div class="jumbotron">
-	<div class="container">
-		<div class="claim">
-			<img alt="CYCLONE" src="/assets/images/CYCLONE-LOGO-WHITE.png" >
-			<p class="lead">Manage federated, multi-cloud applications like a breeze.</p>
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12">
+			<div class="claim">
+				<img alt="CYCLONE" src="/assets/images/CYCLONE-LOGO-WHITE.png" >
+				<h1>Manage federated multi-cloud applications <i>like a breeze</i>.</h1>
+			</div>
 		</div>
-	</div>  
+	</div>
 </div>
 
 <div class="container">
 	<div class="row">
 		<div class="col-xs-12">
-			<h1>What does CYCLONE revolve around?</h1>
-			<h2>
-				<a href="software.html">
-					<span class="fa-stack">
-						<i class="fa fa-square fa-stack-2x"></i>
-						<i class="fa fa-terminal fa-stack-1x fa-inverse"></i>
-					</span>
-					&nbsp;DevOps Tools
-				</a>
-			</h2>
+			<h2>What does CYCLONE offer me?</h2>
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-md-3">
-			<p class="lead"><a href="/software.html#nuvla">Nuv.la</a> - multi-cloud deployment automation</p>
+		<div class="col-md-4">
+			<h2><a href="/software.html"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-terminal fa-stack-1x fa-inverse"></i></span>&nbsp;DevOps Tools</a></h2>
+			<p class="lead">Manage multi-cloud application deployment, software-defined networks, and federated identities.</p>
+			<p><a class="btn btn-primary btn-lg btn-block" href="/software.html"><i class="fa fa-book fa-inverse"></i>&nbsp;<b>Learn</b> about our tools</a></p>
+			<p><a class="btn btn-primary btn-lg btn-block" href="/tryout.html"><i class="fa fa-cloud-upload fa-inverse"></i>&nbsp;<b>Tryout</b> CYCLONE software</a></p>
 		</div>
 		<div class="col-md-4">
-			<p class="lead"><a href="/software.html#opennaas">OpenNaaS</a> - software-defined network controller</p>
+			<h2><a href="/research.html"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-university fa-stack-1x fa-inverse"></i></span>&nbsp;Research</h2></a>
+			<p class="lead">We innovative service brokering, QoS optimization, attribute-based encryption and more.</p>
+			<p><a class="btn btn-primary btn-lg btn-block" href="/software.html"><i class="fa fa-file-text fa-inverse"></i>&nbsp;<b>Read</b> our publications</a></p>
+			<p><a class="btn btn-primary btn-lg btn-block" href="/contact.html"><i class="fa fa-users fa-inverse"></i>&nbsp;<b>Collaborate</b> with us</a></p>
 		</div>
-		<div class="col-md-5">
-			<p class="lead"><a href="/software.html#fp">CYCLONE Federation Provider</a> - federated authentication and authorization</p>
+		<div class="col-md-4">
+			<h2><a href="/usecases.html"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-users fa-stack-1x fa-inverse"></i></span>&nbsp;Use Cases</a></h2>
+			<p class="lead">We deliver. See how our approaches are deployed in diverse production environments.</p>
+			<p><a class="btn btn-primary btn-lg btn-block" href="/usecases.html"><i class="fa fa-line-chart fa-inverse"></i>&nbsp;<b>Discover</b> use case profits</a></p>
+			<p><a class="btn btn-primary btn-lg btn-block" href="/contact.html"><i class="fa fa-plus fa-inverse"></i>&nbsp;<b>Propose</b> a new use case</a></p>
 		</div>
 	</div>
-	<div class="row">
-		<div class="col-xs-12"><p><a href="/software.html" class="btn btn-lg btn-info"><i class="fa fa-terminal fa-inverse"></i>&nbsp;&nbsp;More CYCLONE tools</a></p></div>
-	</div>
+</div>
+
+<div class="container">
 	<div class="row">
 		<div class="col-xs-12">
+			<h2><a href="/news.html"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-newspaper-o fa-stack-1x fa-inverse"></i></span>&nbsp;Featured news items</a></h2>
+		</div>
+	</div>
+	{% assign featured = site.posts | where: 'featured', true %}
+	{% for post in featured %}
+		<div class="row">
+			<div class="col-md-2">
+				<h3>{{ post.date | date: "%d %b %y") }}</h3>
+			</div>
+			<div class="col-md-10">
+				<h3><a href="{{post.url}}">{{ post.title }}</a></h3>
+				{% if post.teaser %}<h4>{{ post.teaser }}</h4>{% endif %}
+			</div>
+		</div>
+	{% endfor %}
+	<div class="row">&nbsp;</div>
+	<div class="row">
+		<div class="col-md-4">
+			<p><a class="btn btn-primary btn-lg btn-block" href="/news.html"><i class="fa fa-newspaper-o fa-inverse"></i>&nbsp;<b>All</b> news items</a></p>
+		</div>
+	</div>
+	<div class="row">&nbsp;</div>
+</div>
 
-			<h2>
-				<a href="/research.html">
-					<span class="fa-stack">
-						<i class="fa fa-square fa-stack-2x"></i>
-						<i class="fa fa-university fa-stack-1x fa-inverse"></i>
-					</span>
-					&nbsp;Research
-				</a>
-			</h2>
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12">
+			<h2>What's more?</h2>
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-md-3"><p class="lead"><i class="fa fa-inverse fa-exchange"></i>Matchmaking and Brokering of Cloud Resources</p></div>
-		<div class="col-md-3"><p class="lead"><i class="fa fa-inverse fa-lock"></i>Dynamic access control and secure trust bootstrapping</p></div>
-		<div class="col-md-3"><p class="lead"><i class="fa fa-inverse fa-key"></i>Attribute-based encryption</p></div>
-		<div class="col-md-3"><p class="lead"><i class="fa fa-inverse fa-tachometer"></i>SLA optimization of Cloud Resources</p></div>
-			<p><a href="/software.html" class="btn btn-lg btn-info btn-block"><i class="fa fa-university fa-inverse"></i>&nbsp;&nbsp;See our research</a></p>
-			<h2>
-				<a href="/usecases.html">
-					<span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-users fa-stack-1x fa-inverse"></i></span>
-					&nbsp;Use Cases
-				</a>
-			</h2>
-			<ul class="fa-ul">
-				<li><p class="lead"><i class="fa fa-li fa-inverse fa-flask"></i>Self-service bioinformatics cloud</li>
-				<li><p class="lead"><i class="fa fa-li fa-inverse fa-bolt"></i>Future energy market</p></li>
-				<li><p class="lead"><i class="fa fa-li fa-inverse fa-key"></i>Attribute-based encryption</p></li>
-				<li><p class="lead"><i class="fa fa-li fa-inverse fa-tachometer"></i>SLA optimization of Cloud Resources</p></li>
-			</ul>
-			<p><a href="/software.html" class="btn btn-lg btn-info btn-block"><i class="fa fa-university fa-inverse"></i>&nbsp;&nbsp;See our research</a></p>
-
+		<div class="col-md-4">
+			<h2><a href="/about.html"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-certificate fa-stack-1x fa-inverse"></i></span>&nbsp;The project</a></h2>
+			<p class="lead">CYCLONE is an innovation action funded through the <a href="https://ec.europa.eu/programmes/horizon2020/">Horizon 2020</a> framework programme for Research and Innovation of the European Commission.</p>
+			<p><a class="btn btn-primary btn-lg btn-block" href="/about.html"><i class="fa fa-book fa-inverse"></i>&nbsp;<b>Learn</b> about our project</a></p>
+			<p><a class="btn btn-primary btn-lg btn-block" href="/deliverables.html"><i class="fa fa-download fa-inverse"></i>&nbsp;<b>Download</b> our deliverables</a></p>
+		</div>
+		<div class="col-md-4">
+			<h2><a href="/consortium.html"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-users fa-stack-1x fa-inverse"></i></span>&nbsp;The consortium</a></h2>
+			<p class="lead">The CYCLONE consortium consists of leading european companies and research institutions that adress the issue of cloud management holistically.</p>
+			<p><a class="btn btn-primary btn-lg btn-block" href="/consortium.html"><i class="fa fa-users fa-inverse"></i>&nbsp;<b>Get to know</b> the consortium</a></p>
+			<p><a class="btn btn-primary btn-lg btn-block" href="/contact.html"><i class="fa fa-envelope fa-inverse"></i>&nbsp;<b>Contact</b> us anytime</a></p>
+		</div>
+		<div class="col-md-4">
+			<h2><a href="/newsletters.html"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-newspaper-o fa-stack-1x fa-inverse"></i></span>&nbsp;Newsletters</a></h2>
+			<p class="lead">We regularily publish project-related information in our newsletters. They summarize our developments and provide further information.</p>
+			<p><a class="btn btn-primary btn-lg btn-block" href="/newsletters.html"><i class="fa fa-newspaper-o fa-inverse"></i>&nbsp;<b>Download</b> our newsletters</a></p>
+			<p><a class="btn btn-primary btn-lg btn-block" href="/contact.html"><i class="fa fa-plus fa-inverse"></i>&nbsp;<b>Propose</b> a new topic</a></p>
 		</div>
 	</div>
 </div>
