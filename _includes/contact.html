@@ -1,0 +1,16 @@
+<div class="row" markdown="0" id="{{ contact.Given | downcase | replace: " ", "-"}}-{{ contact.Family | downcase | replace: " ", "-" }}">
+    <div class="col-xs-3">
+        <h2>
+            <img src="/assets/images/people/{{ contact.Given | replace: " ", "%20" }}%20{{contact.Family | replace: " ", "%20" }}.jpg" alt="Photo of {{ contact.Given }}%20{{contact.Family}}" class="img-responsive img-rounded" onError="imgError(this)"/>
+        </h2>
+    </div>
+    <div class="col-xs-9">
+        <h2>{{ contact.Given }} {{contact.Family}}</h2>
+        <h3>{{ contact.Partner }}</h3>
+        <ul class="fa-ul">
+            <li><i class="fa fa-li fa-envelope"></i><a href="mailto:{{ contact.Mail }}">{{ contact.Mail }}</a></li>
+            {% if contact.Skype %}<li><i class="fa fa-li fa-skype"></i><a href="skype:{{ contact.Skype }}?chat&topic=CYCLONE">{{ contact.Skype }}</a></li>{% endif %}
+            {% if contact.Web %}<li><i class="fa fa-li fa-globe"></i><a href="{{ contact.Web }}">{{ contact.Web }}</a></li>{% endif %}
+        </ul>
+    </div>
+</div>

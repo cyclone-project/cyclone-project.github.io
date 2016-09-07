@@ -1,28 +1,20 @@
 - name: "Tools"
   url: "/software.html"
 
+- name: "Tryout"
+  url: "/tryout.html"
+
+- name: "Use cases"
+  url: "/usecases.html"
+
 - name: "News"
   url: "/news.html"
-
-- name: "About"
-  url: "/about.html"
 
 - name: "Consortium"
   url: "/consortium.html"
 
-- name: "Media"
-  url: "/press.html"
-  child_links: 
-         - name: "Press"
-           url: "/press.html"
-         - name: "Tutorials"
-           url: "/tutorials.html"
-         - name: "Publications"
-           url: "/publications.html"
-         - name: "Deliverables"
-           url: "/deliverables.html"
-         - name: "Newsletters"
-           url: "/newsletters.html"
+- name: "Documents"
+  url: "/documents.html"
 
 - name: "Contact Us"
   url: "/contact.html"

@@ -1,0 +1,28 @@
+{% capture slug %}{{ software.Component | downcase | replace: ' ', '-' }}{% endcapture %}
+{% unless software.Partner %}
+<h1 id="{{ slug }}">{{ software.Component }}<br/><small>{{ software.Claim }}</small></h1>
+{% else %}
+<h2 id="{{ slug }}">
+  {% capture link %}{% if software.Homepage %}{{ software.Homepage }}{% elsif software.Repository %}{{ software.Repository }}{% endif %}{% endcapture %}
+  {% capture innertext %}
+    {% if software.Logo %}
+      <img src= "{{ software.Component | downcase | prepend: 'assets/images/logo_' | append: '.png' }}" alt="{{ software.Component }}">
+    {% else %}
+      {{ software.Component }}
+    {% endif %}
+  {% endcapture %}
+
+  {% if link != "" %}
+    <a class="software-logo" href="{{ link }}">{{ innertext }}</a>
+  {% else %}
+    {{ innertext }}
+  {% endif %}
+  <small>{{ software.Claim }}</small>
+</h2>
+<p><b>{% if software.Partner %}{{ software.Partner }}, {{ software.License }}{% if software.Repository %}, <a href="{{ software.Repository }}">Source</a>{% endif %}{% if software.Homepage %}, <a href="{{ software.Homepage }}">Homepage</a>{% endif %}{% endif %}</b></p>
+{% for description in site.software %}
+  {% if description.path contains slug %}
+    {{ description.content }}
+  {% endif %}
+{% endfor %}
+{% endunless %}

@@ -1,0 +1,3 @@
+---
+---
+The Open Service Compendium is an information system that supports businesses in their discovery, assessment and cloud service selection by offering a simple [dynamic service description language](https://github.com/TU-Berlin-SNET/sdl-ng), business-pertinent vocabularies, as well as matchmaking functionality. Within CYCLONE we work on integrating the Open Service Compendium with the Slipstream Service Catalog to make it very easy for DevOps to find fitting cloud services for their multi-cloud deployment. This integration is detailed in [Deliverable D6.2](assets/images/deliverables/Specification of Interfaces for Brokering, Deployment, and Management.pdf)

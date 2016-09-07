@@ -9,7 +9,7 @@
 			<div class="col-md-12">
 				<p>CYCLONE is funded by the European Commission Horizon 2020 framework, grant number 644925.</p>
 				<a href="http://ec.europa.eu/programmes/horizon2020/">
-					<img src="/assets/images/EC-H2020-black.png">
+					<img src="/assets/images/EC-H2020-black.png" alt="Logo of European Commission Horizon 2020 programme">
 				</a>
 			</div>
 		</div>
@@ -19,14 +19,12 @@
 			<div class="col-md-4">
 			</div>
 			<div class="col-md-2">
-				<p class"text-right">
 				<h4>Follow us</h4>
 				{% for icon in site.data.social-icons %}
 				<a class="social-icon--link {{ icon.class }}" href="{{ icon.url }}">
-					<img src= "{{ icon.class | prepend: '/assets/images/' | append: '.svg' }}" alt=cyclone-project@"{{ icon.class }}" width="42">
+					<img src= "{{ icon.class | prepend: '/assets/images/' | append: '.svg' }}" alt='cyclone-project@{{ icon.class }}' width="42">
 				</a>
 				{% endfor %}
-				</p>
 			</div>
 
 			<div class="col-md-2">

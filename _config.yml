@@ -1,5 +1,7 @@
 encoding: UTF-8
 
+force_polling: true
+
 defaults:
   -
     scope:
@@ -16,7 +18,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-
   -
     scope:
       type: "press"
@@ -28,6 +29,8 @@ collections:
     output: false
   press:
     output: true
+  usecases:
+    output: true
 
 sass:
     style: :compressed
@@ -37,3 +40,5 @@ kramdown:
 
 gems:
   - jekyll-redirect-from
+
+array: []
