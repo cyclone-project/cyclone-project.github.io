@@ -220,7 +220,14 @@ body {
       margin: 0;
     }
     img {
-      max-height: 10em;
+      @media screen and(min-width: $screen-lg-min) {
+        max-height: 10em;
+      }
+
+      @media screen and(max-width: $screen-md-max) {
+        max-height: 5em;
+      }
+      
       max-width: 100%;
       margin-bottom: 1em;
     }
