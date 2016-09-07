@@ -44,3 +44,5 @@ _site/
 
 #mac generated files
 *.DS_Store
+
+*.swp
