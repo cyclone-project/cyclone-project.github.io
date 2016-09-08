@@ -196,7 +196,12 @@ body {
 
   .claim {
     display: inline-block;
+    margin-top: 15px;
     text-align: center;
+    width: 100%;
+    h1 {
+      margin-bottom: 0;
+    }
     p {
       margin: 0;
     }
