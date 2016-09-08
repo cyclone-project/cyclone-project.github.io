@@ -112,10 +112,14 @@ body {
       
       > .row {
         background-color: rgba($color-darkblue,0.85);
+
+        &:last-child {
+          padding-bottom: 15px;
+        }
       }
   
-      margin-bottom: 2em;
-      padding-bottom: 2em;
+      margin-bottom: 30px;
+      padding-bottom: 15px;
     }
 
     > .container.challenges {
@@ -215,7 +219,6 @@ body {
   .claim {
     display: inline-block;
     text-align: center;
-    padding: 2em;
     p {
       margin: 0;
     }
