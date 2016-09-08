@@ -99,7 +99,6 @@ body {
     background-position: center top;
     background-attachment: fixed;
     color: #FFF;
-    text-shadow: black 0.1em 0.1em 0.2em;
     //padding-top: 8em;
 
     > .container {
@@ -145,10 +144,6 @@ body {
       &:after {
         content: " "
       }
-    }
-
-    .fa-stack, a.btn {
-      text-shadow: none;
     }
 
     > div.container:first-of-type {
