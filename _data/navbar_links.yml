@@ -13,11 +13,11 @@
 - name: "News"
   url: "/news.html"
 
-- name: "Consortium"
+- name: "Team"
   url: "/consortium.html"
 
-- name: "Documents"
+- name: "Media"
   url: "/documents.html"
 
-- name: "Contact Us"
+- name: "Contact"
   url: "/contact.html"
