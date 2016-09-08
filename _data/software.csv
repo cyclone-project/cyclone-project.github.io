@@ -6,7 +6,7 @@ OpenNaaS Extensions,See what other users are contributing to OpenNaaS,OpenNaaS C
 Cyclone Networking Services Manager and Orchestrator,Integrate network services into your cloud applications using our ready-to-deploy modules to increase security and lower maintenance efforts.,i2Cat,?,https://github.com/dana-i2cat/cnsmo,,
 CYCLONE Federation Provider,Use federated identities without the complexity,TU Berlin,Apache 2,https://github.com/cyclone-project/cyclone-federation-provider,,
 CYCLONE Distributed Logging,Unify log messages from distributed applications,TU Berlin,Apache 2,https://github.com/cyclone-project/cyclone-logging,,
-Open Service Compendium,Get help chosing the right cloud service for your application,TU Berlin,Apache 2,https://github.com/TU-Berlin-SNET/tresor-broker,,
+Open Service Compendium,Get help chosing the right cloud service for your application,TU Berlin,Apache 2,https://github.com/TU-Berlin-SNET/open-service-compendium,,
 Tools and libraries,Extend your solution with these helpers,,,,,
 CYCLONE PAM Module,Use federated identities for SSH login,TU Berlin,Apache 2,https://github.com/cyclone-project/cyclone-python-pam,,
 CYCLONE Client Registration,Self-registration of OpenID Connect Clients for federated clouds,TU Berlin,Apache 2,https://github.com/cyclone-project/cyclone-client-registration,,
