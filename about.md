@@ -7,7 +7,7 @@ layout: default
 {:.lead}
 CYCLONE integrates and extends open source software to create a unified cloud application management solution for application service providers, DevOps, and researchers.
 
-# What challenges does CYCLONE address?
+# What does CYCLONE solve?
 
 <h6></h6>
 
