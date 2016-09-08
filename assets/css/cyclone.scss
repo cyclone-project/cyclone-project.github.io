@@ -150,7 +150,7 @@ body {
           color: white;
         }
 
-        &.btn {
+        &.btn, &.social-icon-link {
           text-decoration: none;
         }
       }
@@ -584,4 +584,10 @@ body.contacts {
 
 body > #wrap > .container.challenges h3, body.glance > #wrap > .container > .row h2 {
   @include fa-tablelike
+}
+
+body.home > #wrap > .container:nth-last-of-type(2) {
+  h1 {
+    margin: 15px 0 0 0;
+  }
 }

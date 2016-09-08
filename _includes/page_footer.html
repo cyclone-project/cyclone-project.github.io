@@ -13,26 +13,10 @@
 				</a>
 			</div>
 		</div>
-
-
 		<div class="row">
-			<div class="col-md-4">
-			</div>
-			<div class="col-md-2">
-				<h4>Follow us</h4>
-				{% for icon in site.data.social-icons %}
-				<a class="social-icon--link {{ icon.class }}" href="{{ icon.url }}">
-					<img src= "{{ icon.class | prepend: '/assets/images/' | append: '.svg' }}" alt='cyclone-project@{{ icon.class }}' width="42">
-				</a>
-				{% endfor %}
-			</div>
-
-			<div class="col-md-2">
-				<a href="/imprint.html">
-					<h4>Imprint</h4>
-				</a>
-			</div>
-			<div class="col-md-4">
+			<div class="col-md-12">
+				<p>&nbsp;</p>
+				<p>Page &copy; the CYCLONE consortium. For more information, <a href="/imprint.html">read our imprint</a>.</p>
 			</div>
 		</div>
 	</div>
