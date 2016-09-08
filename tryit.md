@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tryout CYCLONE software
+title: Try our software
 ---
 # First, our stack.
 

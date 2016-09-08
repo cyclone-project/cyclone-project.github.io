@@ -1,8 +1,8 @@
 - name: "Tools"
   url: "/software.html"
 
-- name: "Tryout"
-  url: "/tryout.html"
+- name: "Try it"
+  url: "/tryit.html"
 
 - name: "Use cases"
   url: "/usecases.html"
