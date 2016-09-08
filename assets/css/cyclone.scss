@@ -121,23 +121,6 @@ body {
       padding-bottom: 15px;
     }
 
-    > .container.challenges {
-      h3 {
-        display: table;
-
-        > span.fa-stack {
-          display: table-cell;
-          vertical-align: top;
-        }
-
-        > span:last-child {
-          display: table-cell;
-          vertical-align: middle;
-          padding-left: 0.5em;
-        }
-      }
-    }
-
     > *:last-child {
       margin-bottom: 275px !important;
 
@@ -579,4 +562,21 @@ body.contacts {
   }
 }
 
+@mixin fa-tablelike {
+    display: table;
 
+    > span.fa-stack {
+      display: table-cell;
+      vertical-align: top;
+    }
+
+    > span:last-child {
+      display: table-cell;
+      vertical-align: middle;
+      padding-left: 0.5em;
+    }
+}
+
+body > #wrap > .container.challenges h3, body.glance > #wrap > .container > .row h2 {
+  @include fa-tablelike
+}
