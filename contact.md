@@ -55,3 +55,11 @@ layout: default
 		<button type="submit" class="btn btn-default">Send message</button>
 	</form>
 </section>
+
+<h1>Follow us:
+	{% for icon in site.data.social-icons %}
+	<a class="social-icon-link {{ icon.class }}" href="{{ icon.url }}">
+		<img src= "{{ icon.class | prepend: '/assets/images/' | append: '.svg' }}" alt='cyclone-project@{{ icon.class }}' width="42">
+	</a>
+	{% endfor %}
+</h1>
