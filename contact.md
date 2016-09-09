@@ -1,65 +1,57 @@
 ---
-title: Contacts
-layout: page
+title: Contact
+layout: default
 ---
 <h1>Ask us anything, we're happy to help you!</h1>
 
-{:.lead}
-Here is a list of people from our project, sorted by their area of expertise. If in doubt, [Mathias](#mathias-slawik) and [Yuri](#yuri-demchenko) will gladly respond via Skype or email.
+<section markdown="0">
+	<script src="/assets/javascript/jquery.js"></script>
+	<script type="text/javascript">
+		//execute the function when the DOM is ready
+		$(function() {
+			//submit the form data
+			$("#contactForm").submit(
+					//submit handler
+					function(event){ 
+						// Stop form from submitting normally
+						event.preventDefault();	
+						// do some validation
+						var $form = $( this ),
+						url = $form.attr( "action" );
 
-<script>
-// http://stackoverflow.com/a/92819
-function imgError(image) {
-  image.onerror = "";
-  image.src = "/assets/images/CYCLONE-LOGO-WHITE.png";
-  image.style = "margin-top: 1.25em";
-  return true;
-}
-</script>
+						//$( "#contactForm" ).serialize()
+						var posting = $.post("mailto:contact@cyclone-project.eu");
+						// somehow posting.done below or a callback function to the above method wont work
+						var $inputs = $('#contactForm :input');
 
-{% assign topics = site.array %}
-{% assign topics_by_person = site.data.contacts | map: 'to_liquid' | map: 'Topics' %}
+						var values = {};
+						$inputs.each(function() {
+							values[this.name] = $(this).val();
+						});
+						posting.always(function()
+								{window.location ="mailto:contact@cyclone-project.eu?subject="+"CYCLONE Feedback from "+ values["name"]+"&body="+values["message"]+ "&cc=" + values["email"]}
+						);
+						$("#thankyou").html("<h2>Thank you for your message!</h2>");
+					}
+			);
 
-{% for topic in topics_by_person %}
-{% assign person_topics = topic | split: "|" %}
-{% for person_topic in person_topics %}
-{% assign topics = topics | push: person_topic %}
-{% endfor %}
-{% endfor %}
+		});
+	</script>
 
-{% assign unique_topics = topics | uniq | sort %}
-
-{% assign contacts = site.data.contacts | sort: 'Family' %}
-
-{% assign partners = site.data.contacts | map: 'to_liquid' | map: 'Partner' | uniq %}
-
-{% for topic in unique_topics %}
-# {{ topic | slice: 1,100 }}
-
-{% for contact in contacts %}
-{% if contact.Topics contains topic %}
-{% include contact.html %}
-{% endif %}
-{% endfor %}
-{% endfor %}
-
-{% comment %}
-
-# Contacts by name
-
-{% for contact in contacts %}
-{% include contact.html %}
-{% endfor %}
-
-# Contacts by Partner
-
-{% for partner in partners %}
-## {{ partner }}
-{% for contact in contacts %}
-{% if contact.Partner contains partner %}
-{% include contact.html %}
-{% endif %}
-{% endfor %}
-{% endfor %}
-
-{% endcomment %}
+	<form id="contactForm">
+		<div class="form-group">
+			<label for="name">Name</label>
+			<input id="name" name="name" placeholder="Full Name" type="text" class="form-control">
+		</div>
+		<div class="form-group">
+			<label for="name">E-mail</label>
+			<input id="email" name="email" placeholder="E-mail Address" type="email" class="form-control">
+		</div>
+		<div class="form-group">
+			<label for="name">Message</label>
+			<textarea id="message" name="message" placeholder="Your Message to Us" class="form-control" rows="8"></textarea>
+		</div>
+		<div id="thankyou"></div>
+		<button type="submit" class="btn btn-default">Send message</button>
+	</form>
+</section>
