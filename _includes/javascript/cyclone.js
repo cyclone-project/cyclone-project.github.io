@@ -127,17 +127,21 @@ $(document.links).filter(function() {
             var headerCopy = jQuery(header).clone();
             headerCopy.find('img').replaceWith(headerCopy.find('img').attr('alt'));
             headerCopy.find('small').remove();
+            var innerLink = headerCopy.find("a");
+            if(innerLink.length == 1) {
+              innerLink.contents().unwrap();
+            }
             return headerCopy.html();
         }
 
         var level = get_level(headers[0]),
             this_level,
             html = settings.title + " <"+settings.listType+" class='nav nav-pills nav-stacked'>";
-        headers.on('click', function() {
-            if (!settings.noBackToTopLinks) {
-                window.location.hash = this.id;
-            }
-        })
+            headers.on('click', function() {
+                if (!settings.noBackToTopLinks) {
+                    window.location.hash = this.id;
+                }
+            })
             .addClass('clickable-header')
             .each(function(_, header) {
                 this_level = get_level(header);
