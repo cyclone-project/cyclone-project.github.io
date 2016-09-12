@@ -27,14 +27,7 @@ component of the CYCLONE solution.
 [![QSC Logo](/assets/images/logo_qsc.jpg)](http://www.qsc.de)
 {: class="partner_logo"}
 
-QSC AG offers small and mid-size enterprises one-stop shopping for an
-extensive range of ICT services: from telephony, data transfer,
-Housing and Hosting right through to IT Outsourcing and IT
-Consulting. As an SAP and Microsoft Partner, QSC additionally
-possesses special expertise in the field of SAP and Microsoft
-implementation. With its own cutting-edge network infrastructure, as
-well as TÜV- and ISO-certified data centers in Germany, QSC numbers
-among the leading SME ICT providers in Germany.
+QSC AG is digitising the German SME sector. With decades of experience and expertise in the areas of Cloud, Internet of Things, Consulting, and Telecommunications, QSC accompanies its customers securely into the digital age. Today already, cloud-based procurement models offer increased speed, flexibility, and full service availability. The Company’s TÜV and ISO-certified data centres in Germany and its nationwide All-IP network form the basis for maximum end-to-end quality and security. QSC’s customers benefit from one-stop innovative products and services that are marketed both directly and via partners.
 
 ## Technische Universität Berlin <br/><small>Service-centric Networking</small>
 
