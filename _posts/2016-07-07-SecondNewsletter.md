@@ -1,5 +1,6 @@
 ---
 title: The Second CYCLONE Newsletter available 
+teaser: Explore our use case scenarios and how we provide security to federated cloud applications.
 ---
 
 In [the second CYCLONE newsletter](/assets/images/newsletters/CYCLONE Newsletter second edition.pdf) 
