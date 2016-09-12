@@ -1,4 +1,5 @@
 {% capture slug %}{{ software.Component | downcase | replace: ' ', '-' }}{% endcapture %}
+<!-- {{ slug }} -->
 {% unless software.Partner %}
 <h1 id="{{ slug }}">{{ software.Component }}<br/><small>{{ software.Claim }}</small></h1>
 {% else %}
