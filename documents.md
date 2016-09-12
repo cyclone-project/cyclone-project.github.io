@@ -102,6 +102,8 @@ Demchenko, Yuri, Cosmin Dumitru, Ralph Koining, Cees de Laat, Taras Matselyukh, 
 					<a href="{{ deliverable.name | prepend: 'assets/images/deliverables/' | append: '.pdf' }}"> {{ deliverable.name }}* </a>
 					{% elsif deliverable.state == 'done' %}
 					<a href="{{ deliverable.name | prepend: 'assets/images/deliverables/' | append: '.pdf' }}"> {{ deliverable.name }}</a>
+					{% elsif deliverable.state == 'confidential' %}
+					{{ deliverable.name }} * **
 					{% else %}
 					{{ deliverable.name }}
 					{% endif %}
@@ -112,3 +114,4 @@ Demchenko, Yuri, Cosmin Dumitru, Ralph Koining, Cees de Laat, Taras Matselyukh, 
   </tbody>
 </table>
 <p>* Under EC review</p>
+<p>** Confidential</p>
