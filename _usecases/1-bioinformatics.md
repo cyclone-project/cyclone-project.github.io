@@ -31,6 +31,6 @@ You can find more information about our Bioinformatics Use Cases in the followin
 {:.preview}
 [![Deliverable 3.1](/assets/images/deliverables/Evaluation of Use Cases.png)](/assets/images/deliverables/Evaluation of Use Cases.pdf)
 
-## Have a chat with Christophe and Oleg
+## Have a chat with us
 
-Just contact [Christophe](/contact.html#christophe) (IFB) and [Oleg](/contact.html#oleg) (LAL) when you want more information about the use cases.
+Just [contact us](/contact.html) when you want more information about the use cases.

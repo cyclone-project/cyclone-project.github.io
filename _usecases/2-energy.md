@@ -21,6 +21,6 @@ You can find more information about the Energy use case in the following materia
 {:.preview}
 [![Deliverable 3.1](assets/images/deliverables/Evaluation of Use Cases.png)](assets/images/deliverables/Evaluation of Use Cases.pdf)
 
-## Have a chat with Adelheid
+## Have a chat with us
 
-Just contact [Adelheid](/contact.html#adelheid) (QSC) when you want more information about the use cases.
+Just [contact us](/contact.html) when you want more information about the use cases.
