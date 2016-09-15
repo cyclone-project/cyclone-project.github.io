@@ -2,6 +2,10 @@
 layout: page
 title: Documents
 ---
+# Demo videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLSMnrD4M5OV0R0QIw9-MGqiwwbaIDauaL" frameborder="0" allowfullscreen></iframe>
+
 # Project Flyer
 
 {:.preview}
