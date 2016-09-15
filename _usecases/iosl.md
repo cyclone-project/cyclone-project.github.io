@@ -2,6 +2,8 @@
 title: Internet of Services Lab (IoSL)
 teaser: We lower the effort of conducting computer science courses while raising the ease of use and the security level of the developed prototypes.
 ---
+# Use case overview
+
 [“Internet of Services Lab” (IoSL)](http://www.snet.tu-berlin.de/menue/teaching) is a SNET/TUB teaching project where students work a semester in groups of three to six. They most often implement software related to numerous research projects and topics: Cloud, Mobile, Social, and Ubiquitous Computing. This type of teaching project is quite popular in other computer science related study paths at TUB as well as other universities.
 
 There are different cloud-related innovation areas where CYCLONE provides benefits within the IoSL:

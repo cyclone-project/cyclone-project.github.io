@@ -525,7 +525,7 @@ h1 + h2, h2 + h3 {
   }
 }
 
-p.preview {
+p.preview, p.previewlink {
   text-align: center !important;
 
   img {
@@ -551,6 +551,9 @@ p.preview {
     }
   }
 }
+
+p.preview a::after { content: "Download" }
+p.previewlink a::after { content: "Visit" }
 
 table.sortable thead th:hover {
   background: $table-bg-hover !important;
