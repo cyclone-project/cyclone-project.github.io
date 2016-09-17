@@ -14,7 +14,6 @@ multi-cloud/multi-provider environment. In particular, we focus  on QoS manageme
 A challenging factor for application deployment and exploitation within the CYCLONE infrastructure  is its highly dynamic nature, which 
 raises the need for control  methods that quickly adapt to – or even anticipate to –  changing  circumstances.  
 In  this paper we present  the solution that allows for performance optimization of the running applications  within CYCLONE.  
-This solution  is  envisioned  as an eternal  software solution which can be integrated with Slip- Stream, a cloud automation  
-and management platform. Based on the analysis of the measurement  data, a number of actions may be taken. These actions may include 
+This solution  is  envisioned  as an eternal  software solution which can be integrated with SlipStream, a cloud automation and management platform. Based on the analysis of the measurement  data, a number of actions may be taken. These actions may include 
 re-scaling of the cloud resources,  re-deployment  of the application, or choosing of the alternative deployment of the same application.  
 The core of our solution  is  the analytics  engine,  and, for a given  scenario,  we illustrate the some of the engine algorithms.
