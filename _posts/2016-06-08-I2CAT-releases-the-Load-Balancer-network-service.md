@@ -22,7 +22,7 @@ We integrate the services in the [CYCLONE flagship use cases](/usecases.html) to
 
 #### Integration manual on OneDrive:
 
-<iframe src="https://onedrive.live.com/embed?cid=2C3033FE409659BD&resid=2C3033FE409659BD%211318&authkey=ADF6ojMC-0Dh1UE&em=2" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://onedrive.live.com/embed?cid=2C3033FE409659BD&resid=2C3033FE409659BD%211519&authkey=AE5i4XlAsFDHxDM&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
 
 # Further Reading
 
