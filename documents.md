@@ -71,7 +71,7 @@ Yuri Demchenko, Miroslav Zivkovic, Cees de Laat, Christophe Blanchet, Mohamed Be
 
 Yuri Demchenko, Paola Grosso, Cees de Laat, Sonja Filiposka, Damir Regvart, Migiel de Vos, Tasos Karaliotas "**ZeroTouch Provisioning (ZTP) Model and Infrastructure Components for Multi-provider Cloud Services Provisioning**", In Cloud Engineering (IC2E), 2016 IEEE International Conference on. (In press)
 
-J. Aznar, E. Escalona, I. Canyameres, O. Moya, A. Viñes "**CNSMO: A Network Services Manager/Orchestrator Tool for Cloud Federated Environments**" (2016). The 15th IFIP Annual Mediterranean Ad Hoc Networking Workshop. (In Press)
+[J. Aznar, E. Escalona, I. Canyameres, O. Moya, A. Viñes "**CNSMO: A Network Services Manager/Orchestrator Tool for Cloud Federated Environments**" (2016). The 15th IFIP Annual Mediterranean Ad Hoc Networking Workshop. (In Press)](http://arxiv.org/abs/1609.01043)
 
 <h2>2015</h2>
 
