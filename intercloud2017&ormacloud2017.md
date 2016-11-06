@@ -18,23 +18,11 @@ The workshop is a follow-up of the successful workshop in 2013-2016 (held in con
 where a number of enthusiasts of cloud computing ideas and presented results of research projects dealing with clouds 
 and cloud based services infrastructure deployment.  
 
-Advances in processing, communication and systems/middleware technologies have led us to new paradigms and platforms 
-for computing – in the form of Cloud Computing. That in its own turn creates a basis for the Big Data and Data 
-Intensive Technologies. Cloud Computing from Cloud Service Providers is a burgeoning market with a wide variety 
-to choose from, including some of the most notable names in Internet and IT today. Cloud Computing is the go-to 
-platform now for datacenter architecture, scalable application hosting, new application development, and mobile 
-app platform. While cloud Computing enjoys a certain amount of application – or application architecture – portability, 
-there are not really any interoperability standards or common practices in place. Security, SLA, and other 
-concerns are still active areas of interest. Also, while Cloud Computing is different from Grid Computing, there 
-is some Federation and Interoperability in the Grid community, are these appropriate to the Cloud Computing space. 
-It is widely believed that the whole space of Clouds, Grids, and the Intercloud will federate and eventually converge. 
-There are lessons to be learned from the early Internet work as well as Mobile Telephony. Some believe that SDN is 
-the key to making this happen. This workshop focuses on techniques, experiences and lessons learned for interoperable 
-services in Interclouds, Multiclouds, Federations, and Interoperability. This workshop aims at providing a forum 
-to bring together researchers for sharing and exchanging Cloud computing related research, technologies, experience, 
-and lessons for building Clouds with Intercloud, Multicloud, Federation, and Interoperability capabilities and services.
+Advances in processing, communication and systems/middleware technologies have led us to new paradigms and platforms for computing – in the form of Cloud Computing. That in its own turn creates a basis for the Big Data and data intensive technologies.
+Cloud Computing is the go-to platform now for datacenter architecture, scalable application hosting, new application development, and mobile applications platform. Growing use of clouds as a platform for modern applications increases demand for cloud automation and consequently better definition of cloud interoperability standards. Security, dynamic trust establishment, SLA management, and other concerns are still active areas of research. This workshop focuses on techniques, experiences and lessons learned for interoperable services in Interclouds, Multiclouds, Federations, and Interoperability. This workshop aims at providing a forum to bring together researchers for sharing and exchanging Cloud computing related research, technologies, experience, and lessons for building Clouds with Intercloud, Multicloud, Federation, and Interoperability capabilities and services.
 
-The Workshop will have two tracks: Intercloud and ORMaCloud. 
+
+The Workshop will have two tracks: Intercloud2017 and ORMaCloud2017. 
 
 ### Intercloud topics include (but not limited to) the following:
 
@@ -42,27 +30,17 @@ The Workshop will have two tracks: Intercloud and ORMaCloud.
 
 •	Cloud Federation and Interoperability Protocols
 
-•	Trust, Security, Identity for Interclouds, Multiclouds, Federations, and Interoperability
+•	Trust, Security, Identity Management for Interclouds, Multiclouds, Federations, and Interoperability
 
 •	Virtual Private Cloud, VPN/IPsec, MPLS techniques for multi-clouds and inter-clouds
 
-•	Grid Federation and Interoperability Protocols, Lessons Learned, As Applied to Clouds
-
-•	Experimental Results of Distributed/Multiple Datacenter Cloud Coordination and Interoperability
-
 •	Theory and experimental results of SDN used for cloud oriented network infrastructure, federations, and interoperability
-
-•	Semantic Web Services Definitions for Clouds Resources and Management
 
 •	Mobile Roaming applications for for Interclouds, Multiclouds, Federations, and Interoperability
 
-•	Cloud and Grid Federation governance and regulatory issues
+•	Cloud and Grid Federation governance, practical experience and regulatory issues
 
 •	Traffic and load balancing across Federated and Interoperable Clouds
-
-•	QoS/SLA in Federated and Interoperable Clouds
-
-•	Converged Implementations of Clouds and Grids
 
 •	Multilayer (IaaS, PaaS, SaaS) services operation in Intercloud environment
 
@@ -70,16 +48,52 @@ The Workshop will have two tracks: Intercloud and ORMaCloud.
 
 •	Intercloud control and management infrastructure for automated services deployment, management and monitoring
 
-•	Management operations, discovery, configuration, provisioning
+• Cloud Automation platforms and tools for Intercloud, multi-cloud environment
 
-•	Geo-balancing in multi-cloud and intercloud infrastructures
+• Zero Touch Provisioning Operation and Management (ZTPOM) architecture and infrastructure components
 
-•	Compliance, Reference Definitions and Semantics, for Interclouds, Multiclouds, Federations, and Interoperability
+• Security and Compliance for Cloud based Big Data infrastructures and services 
 
 •	Testbeds for Interclouds, Multiclouds, Federations, and Interoperability
 
-The workshop will consist of a number of sessions, where recent results of on-going and just-finished research projects 
-will be demonstrated. The workshop will present also some future research considerations on the future of cloud computing 
+•	Different Cloud Platforms tenancy models, such as Private/Hybrid Clouds, Federations, Distributed / Mobile Clouds.
+ 
+•	Specialized and/or very heterogeneous Cloud-enabled infrastructures: Federations, GPU/FPGA augmented Clouds and Edge resources
+
+•	Innovative techniques for service monitoring, modelling and benchmarking 
+
+ORMaCloud2017 topics include (but not limited to) the following:
+
+•	Research  results  and    experiments  on   features  required
+  by specific classes of Cloud applications, like Artificial
+  Intelligence, Scientific, 24/7  and  Big Data  applications.
+
+•	Algorithms  and   approaches  for  (energy-) efficient mapping,
+  scheduling, autonomic and adaptive management of Cloud  resources.
+
+•	Models, algorithms and design approaches focusing on the different
+  aspects of resource and application management on Clouds,
+  including performance, network optimization, power efficiency,
+  security, reliability.
+
+•	Adaptiveness and  autonomicity in Cloud  resource management.
+
+•	Multicriteria  approaches to Cloud  resource management.
+
+•	Innovative techniques  for  application/resource management in
+  Clouds, such as AI-based solutions, cognitive-inspired models,
+  Machine Learning and  Deep  learning approaches.
+
+•	Cloud  business models and service/resource cost models and their
+  interplay with  resource management optimisation.
+
+•	Semantic Web Services Definitions for Clouds Resources and Management
+
+•	QoS/SLA in Federated and Interoperable Clouds
+
+•	Geo-balancing in multi-cloud and intercloud infrastructures 
+
+The workshop will consist of a number of sessions related to two tracks, where recent results of on-going and just-finished research projects will be demonstrated. The workshop will present also some future research considerations on the future of cloud computing 
 and networking and expose views from different perspectives: research projects and industry.
 
 The workshop will be followed by a panel discussion, to allow free exchange of thoughts and ideas between the 
@@ -99,7 +113,7 @@ Notification: January 15, 2017
 
 Camera-ready: February 1, 2017
 
-InterCloud2016 workshop (during CCGrid2017 Conference): 14-17 May 2017 
+InterCloud2017 & ORMaCloud2017 workshop (during CCGrid2017 Conference): 14-17 May 2017 
 
 ### Paper submission instructions
 
@@ -120,7 +134,7 @@ All submitted paper will be reviewed by international program committee.
 
 ### Workshop Organizers
 
-The workshop is organized by the partners of the CYCLONE, GEANT4, the EC-funded H2020 projects in cooperation with the ORMaCloud2017 workshop.
+The Intercloud2017 workshop is organized by the partners of the CYCLONE, GEANT4, the EC-funded H2020 projects in cooperation with the ORMaCloud2017 workshop.
 
 Yuri Demchenko, University of Amsterdam
 
