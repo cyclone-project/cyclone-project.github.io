@@ -62,7 +62,7 @@ The Workshop will have two tracks: Intercloud2017 and ORMaCloud2017.
 
 •	Innovative techniques for service monitoring, modelling and benchmarking 
 
-ORMaCloud2017 topics include (but not limited to) the following:
+### ORMaCloud2017 topics include (but not limited to) the following:
 
 •	Research  results  and    experiments  on   features  required
   by specific classes of Cloud applications, like Artificial
