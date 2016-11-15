@@ -12,7 +12,7 @@ As part of the Big Data Innovation Conference 2016 (BDIC2016)
 November 16 - 17, 2016, Frankfurt, Germany
 
 Download: <br>
-Workshop slides  <http://www.uazone.org/demch/academic/bdi2016workshop-big-data-security-compliance-v02.pdf>
+Workshop slides  <http://www.uazone.org/demch/academic/bigdata/bdi2016workshop-big-data-security-compliance-v02.pdf>
 Workshop HOL files  <http://www.uazone.org/demch/academic/bigdata/bdi2016wsh-cloud-compliance-csa-pci-dss-hol.zip>
 
 ### Summary
