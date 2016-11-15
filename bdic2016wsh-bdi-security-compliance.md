@@ -8,11 +8,13 @@ title: BDIC 2016 Workshop - Evaluating Security and Compliance of the Outsourced
 <http://www.cyclone-project.eu/bdic2016wsh-bdi-security-compliance.html>
 
 As part of the Big Data Innovation Conference 2016 (BDIC2016)
-<https://pgsolx.com/BDIC/>
-
+<https://pgsolx.com/BDIC/> <br>
 November 16 - 17, 2016, Frankfurt, Germany
 
- 
+Download: <br>
+Workshop slides  <http://www.uazone.org/demch/academic/bdi2016workshop-big-data-security-compliance-v02.pdf>
+Workshop HOL files  <http://www.uazone.org/demch/academic/bigdata/bdi2016wsh-cloud-compliance-csa-pci-dss-hol.zip>
+
 ### Summary
 
 Cloud Computing provide ultimate platform for building Big Data infrastructure and running Big Data applications.  However cloud services are in many cases are outsourced to Cloud Services Providers (CSP) and facilities are not under control of companies. Cloud security is the major concern among organisations and individual users when moving data, applications and services to clouds. CSPs put a lot of efforts in developing strong and consistent security framework, adopting federated access control model, and achieving cloud platforms’ compliance with the major general industry specific security standards and regulations.
