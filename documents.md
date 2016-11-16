@@ -67,7 +67,7 @@ See how all components interact to realize the Bioinformatics Use Case
 # Papers
 
 <h2>2016</h2>
-Yuri Demchenko, Miroslav Zivkovic, Cees de Laat, Christophe Blanchet, Mohamed Bedri, Jean-François Gibrat, Oleg Lodygensky, Zilci, B. I., Slawik, M., Loomis C., Branchat R. (2016). **"CYCLONE: A Platform for Data Intensive Scientific Applications in Heterogeneous Multi-cloud/Multi-provider Environment"**,  In Cloud Engineering (IC2E), 2016 IEEE International Conference on. (In press)
+[ Yuri Demchenko, Miroslav Zivkovic, Cees de Laat, Christophe Blanchet, Mohamed Bedri, Jean-François Gibrat, Oleg Lodygensky, Zilci, B. I., Slawik, M., Loomis C., Branchat R. (2016). **"CYCLONE: A Platform for Data Intensive Scientific Applications in Heterogeneous Multi-cloud/Multi-provider Environment"**,  In Cloud Engineering (IC2E), 2016 IEEE International Conference on. (In press)](https://www.researchgate.net/publication/305869604_CYCLONE_A_Platform_for_Data_Intensive_Scientific_Applications_in_Heterogeneous_Multi-cloudMulti-provider_Environment)
 
 [Yuri Demchenko, Paola Grosso, Cees de Laat, Sonja Filiposka, Damir Regvart, Migiel de Vos, Tasos Karaliotas "**ZeroTouch Provisioning (ZTP) Model and Infrastructure Components for Multi-provider Cloud Services Provisioning**", In Cloud Engineering (IC2E), 2016 IEEE International Conference on. (In press)](https://arxiv.org/abs/1611.02758)
 
