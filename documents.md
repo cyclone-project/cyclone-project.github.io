@@ -107,7 +107,7 @@ Demchenko, Yuri, Cosmin Dumitru, Ralph Koining, Cees de Laat, Taras Matselyukh, 
 					{% elsif deliverable.state == 'done' %}
 					<a href="{{ deliverable.name | prepend: 'assets/images/deliverables/' | append: '.pdf' }}"> {{ deliverable.name }}</a>
 					{% elsif deliverable.state == 'confidential' %}
-					{{ deliverable.name }} * **
+					{{ deliverable.name }} **
 					{% else %}
 					{{ deliverable.name }}
 					{% endif %}
