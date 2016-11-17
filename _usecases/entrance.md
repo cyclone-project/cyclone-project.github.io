@@ -2,7 +2,7 @@
 title: Entrance  
 #title: Entrance meets Cyclone components deployment and integartion of federated identities.
 
-teaser: Linking Cyclone to other research projects. On the integration of Cyclone's Federated Identity provider to Entrance and an improved Entrance component deployment.
+teaser: Linking Cyclone to other research projects. On the integration of Cyclone's Federated Identity Provider to Entrance and an improved Entrance component deployment.
 ---
 # Use case overview
 
