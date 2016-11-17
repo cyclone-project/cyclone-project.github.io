@@ -7,7 +7,7 @@ teaser: Linking Cyclone to other research projects. On the integration of Cyclon
 # Use case overview
 
 [Entrance](http://entrance.snet.tu-berlin.de/ ) is a research project focussing on a meaningful application of Attribute-based Encryption (ABE) in data sharing scenarios. Entrance consists of several components and is currently not easy to setup. In order to reduce this effort a docker-based deployment is intended and addressed by top #1.
-Another cumbersome task is the user provisioning. Currently, the data owner must identify all new users manually. The idea is to use the eduGAIN login, thus the Cyclone's identity service in order to automate as much as possible the initial registration of new users. This task is addressed by top #2. 
+Another cumbersome task is the user provisioning. Currently, the data owner must identify all new users manually. The idea is to use the eduGAIN login, thus Cyclone's identity service in order to automate as much as possible the initial registration of new users. This task is addressed by top #2. 
 
 1. **Easy deployment of Entrance components**:
 The Entrance backend consists of three core software components, a java service and two python services. All have to be configured to run in Docker containers. Afterwards, any trustworthy target device, such as a docker-ready home NAS or in the case of Cyclone a Nuv.la module can be used for the deployment.
