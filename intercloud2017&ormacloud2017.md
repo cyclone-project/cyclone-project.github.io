@@ -3,8 +3,9 @@ title: Joint 6th Intercloud2017 Workshop and 2nd ORMaCloud Workshop as part of C
 ---
 
 ### Joint Sixth IEEE International Workshop on Cloud Computing Interclouds, Multiclouds, Federations, and Interoperability and Second Workshop on Optimisation techniques for Resource Management and Application orchestration in Cloud Computing 
-(Intercloud 2017 & ORMACloud2017) 
-<http://www.cyclone-project.eu/intercloud2017&ormacloud2017.html>
+(Intercloud 2017 & ORMACloud2017) <br>
+<http://www.cyclone-project.eu/intercloud2017&ormacloud2017.html> <br>
+<http://ormacloud.isti.cnr.it/2017/>
 
 In conjunction with the 17th IEEE/ACM CCGrid 2017 Conference on 14-17 May 2017 in Madrid, Spain 
 (https://www.arcos.inf.uc3m.es/wp/ccgrid2017/)
