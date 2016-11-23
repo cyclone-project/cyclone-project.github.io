@@ -1,5 +1,6 @@
 ---
 title: Joint 6th Intercloud2017 Workshop and 2nd ORMaCloud Workshop as part of CCGrid 2017 IEEE/ACM Conference
+layout: post
 ---
 
 ### Joint Sixth IEEE International Workshop on Cloud Computing Interclouds, Multiclouds, Federations, and Interoperability and Second Workshop on Optimisation techniques for Resource Management and Application orchestration in Cloud Computing 
