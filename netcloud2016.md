@@ -80,13 +80,13 @@ Accepted papers **must be presented** at the workshop. At least one author of ea
 ## Workshop Programme - Monday 12th December 2016
 
 {:.table}
-| Session I     | Chair: Dr. Paola Grosso, University of Amsterdam                        |
-| ------------- | ----------------------------------------------------------------------- |
-| 9:00 - 9:05   | NetCloud’16 Introduction: Community and Goals                           |
-| 9:05 - 9:30   | Miroslav Zivkovic, Charles Loomis and Yuri Demchenko. Runtime application performance management for multi-cloud CYCLONE environment |
-| 9:30 - 9:55   | Sonja Filiposka, Anastas Mishev, Frank Wein and Jerry Sobieski. Customer-centric Service Provider Architecture for the R&E Community |
-| 9:55 - 10:30  | Susanne Naegele-Jackson, Jerry Sobieski, Jakub Gutkowski and Michal Hažlinský. Creating Automated Wide-Area Virtual Networks with GTS – Overview and Future Developments |
-| 10:30 - 11:00 | Coffe Break                                                             |
+| Session I      | Chair: Dr. Paola Grosso, University of Amsterdam                        |
+| -------------- | ----------------------------------------------------------------------- |
+| 9:00 - 9:05    | NetCloud’16 Introduction: Community and Goals                           |
+| 9:05 - 9:30    | Miroslav Zivkovic, Charles Loomis and Yuri Demchenko. Runtime application performance management for multi-cloud CYCLONE environment |
+| 9:30 - 9:55    | Sonja Filiposka, Anastas Mishev, Frank Wein and Jerry Sobieski. Customer-centric Service Provider Architecture for the R&E Community |
+| 9:55 - 10:30   | Susanne Naegele-Jackson, Jerry Sobieski, Jakub Gutkowski and Michal Hažlinský. Creating Automated Wide-Area Virtual Networks with GTS – Overview and Future Developments |
+| 10:30 - 11:00  | Coffe Break                                                             |
 
 {:.table}
 | Session II    | Chair: Assoc. Prof. Sonja Filiposka, Ss. Cyril and Methodius University |
