@@ -77,6 +77,14 @@ Accepted papers **must be presented** at the workshop. At least one author of ea
 | Salvatore Spadaro      | Universitat Politecnica de Catalunya | Spain           |
 | Begüm Ilke Zilci       | TU Berlin                            | Germany         |
 
+## Workshop Programme - Monday 12th December 2016
+
+{:.table}
+| Session I - Chair: Dr. Paola Grosso, University of Amsterdam                    |
+| ------------ | ---------------------------------------------------------------- |
+| 9:00 - 9:05  | NetCloud’16 Introduction: Community and Goals                    |
+| 9:05 - 9:25  | Miroslav Zivkovic, Charles Loomis and Yuri Demchenko. Runtime application performance management for multi-cloud CYCLONE environment |
+
 [38]: mailto:eduard.escalona(at)i2cat.net
 [39]: mailto:sonja.filiposka(at)finki.ukim.mk
 [40]: mailto:p.grosso(at)uva.nl
