@@ -3,11 +3,11 @@ title: NetCloud 2016 Workshop
 teaser: 6th Workshop on Network Infrastructure Services as part of Cloud Computing (NetCloud 2016) in conjunction with CloudCom 2016, Luxembourg, December 12, 2016.
 layout: post
 ---
-## Introduction
+### Introduction
 
 NetCloud 2016, collocated with IEEE CloudCom 2016, attempts to address the problem of how the underlying network infrastructure is capable of supporting advanced cloud computing use cases, big data power users for an example. The workshop is intended to bring together network research community, commercial network operators and industry with the major cloud computing players, including IT specialists, researchers and commercial providers.
 
-## Topics of interest
+### Topics of interest
 
 * Definition and architectures for the Network as a Service (NaaS) cloud service model and Cloud Carrier operational model
 * Intercloud and inter-datacenters Software Defined Networks (SDN)
@@ -28,7 +28,7 @@ NetCloud 2016, collocated with IEEE CloudCom 2016, attempts to address the probl
 * Multi-cloud applications and topologies
 * OSS/BSS supported solutions for holistic cloud and network self service provisioning
 
-## Important Dates
+### Important Dates
 
 {:.table}
 | Event                | Date                                                     |
@@ -36,7 +36,7 @@ NetCloud 2016, collocated with IEEE CloudCom 2016, attempts to address the probl
 | Paper submission:    | ~~Aug 22nd, 2016~~ **Extended: Aug 30th, 2016**   |
 | Camera-ready version | ~~Sept 15th, 2016~~ **Extended: Sept 30th, 2016** |
 
-## Submissions
+### Submissions
 
 Submitted papers must not substantially overlap papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings. Authors must submit their papers by the deadline indicated above, using the Easychair submission system available on the following URL: .
 
@@ -44,7 +44,7 @@ Only PDF files will be accepted. Manuscripts need to be prepared according to th
 
 Accepted papers **must be presented** at the workshop. At least one author of each accepted submission must attend the workshop and all workshop participants must pay at least the CloudCom 2016 workshop registration fee. All accepted papers will be published by the IEEE. All presented papers will be subject to peer review process.
 
-## Organizers
+### Organizers
 
 {:.table}
 | Name                  | Institute                          | Country         |
@@ -54,7 +54,7 @@ Accepted papers **must be presented** at the workshop. At least one author of ea
 | [Paola Grosso][40]    | University of Amsterdam            | The Netherlands |
 | [Anna Tzanakaki][41]  | AIT                                | Greece          |
 
-## Program Committee
+### Program Committee
 
 {:.table}
 | Name                   | Institute                            | Country         |
