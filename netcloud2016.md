@@ -77,7 +77,7 @@ Accepted papers **must be presented** at the workshop. At least one author of ea
 | Salvatore Spadaro      | Universitat Politecnica de Catalunya | Spain           |
 | Begüm Ilke Zilci       | TU Berlin                            | Germany         |
 
-# Workshop Programme - Monday 12th December 2016
+# Workshop Programme - Monday 12th Dec. 2016
 
 {:.table}
 | Session I     | Chair: Dr. Paola Grosso, University of Amsterdam                        |
