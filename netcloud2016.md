@@ -89,7 +89,9 @@ Accepted papers **must be presented** at the workshop. At least one author of ea
 | ------------- | ----------------------------------------------------------------------- |
 | 10:30 - 11:00 | Coffe Break                                                             |
 | ------------- | ----------------------------------------------------------------------- |
+{:.table}
 | Session II    | Chair: Assoc. Prof. Sonja Filiposka, Ss. Cyril and Methodius University |
+| ------------- | ----------------------------------------------------------------------- |
 | 11:00 - 11:25 | Sergio Leon Gaixas, Jordi Perelló, Davide Careglio, Eduard Grasa, Miquel Tarzan-Lorente, Neil J. Davies and Peter Thompson. Assuring QoS Guarantees for Heterogeneous Services in RINA Networks with ΔQ |
 | 11:25 - 11:50 | Masaharu Shimizu, Yasuhiro Watashiba, Susumu Date and Shinji Shimojo. Adaptive Network Resource Reallocation for Hot-spot Avoidance on SDN-based Cluster System |
 | 11:50 - 12:15 | Giovanni Fioccola, Pasquale Donadio, Roberto Canonico and Giorgio Ventre. Dynamic Routing and Virtual Machine Consolidation in Green Clouds |
