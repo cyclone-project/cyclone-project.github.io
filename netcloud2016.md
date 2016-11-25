@@ -82,19 +82,19 @@ Accepted papers **must be presented** at the workshop. At least one author of ea
 {:.table}
 | Session I     | Chair: Dr. Paola Grosso, University of Amsterdam                        |
 | ------------- | ----------------------------------------------------------------------- |
-| 09:00 - 09:05 | NetCloud’16 Introduction: Community and Goals                           |
-| 09:05 - 09:30 | Miroslav Zivkovic, Charles Loomis and Yuri Demchenko. Runtime application performance management for multi-cloud CYCLONE environment |
-| 09:30 - 09:55 | Sonja Filiposka, Anastas Mishev, Frank Wein and Jerry Sobieski. Customer-centric Service Provider Architecture for the R&E Community |
-| 09:55 - 10:30 | Susanne Naegele-Jackson, Jerry Sobieski, Jakub Gutkowski and Michal Hažlinský. Creating Automated Wide-Area Virtual Networks with GTS – Overview and Future Developments |
-| 10:30 - 11:00 | Coffe Break                                                             |
+| 09:00&nbsp;-&nbsp;09:05 | NetCloud’16 Introduction: Community and Goals                           |
+| 09:05&nbsp;-&nbsp;09:30 | Miroslav Zivkovic, Charles Loomis and Yuri Demchenko. Runtime application performance management for multi-cloud CYCLONE environment |
+| 09:30&nbsp;-&nbsp;09:55 | Sonja Filiposka, Anastas Mishev, Frank Wein and Jerry Sobieski. Customer-centric Service Provider Architecture for the R&E Community |
+| 09:55&nbsp;-&nbsp;10:30 | Susanne Naegele-Jackson, Jerry Sobieski, Jakub Gutkowski and Michal Hažlinský. Creating Automated Wide-Area Virtual Networks with GTS – Overview and Future Developments |
+| 10:30&nbsp;-&nbsp;11:00 | Coffe Break                                                             |
 
 {:.table}
 | Session II    | Chair: Assoc. Prof. Sonja Filiposka, Ss. Cyril and Methodius University |
 | ------------- | ----------------------------------------------------------------------- |
-| 11:00 - 11:25 | Sergio Leon Gaixas, Jordi Perelló, Davide Careglio, Eduard Grasa, Miquel Tarzan-Lorente, Neil J. Davies and Peter Thompson. Assuring QoS Guarantees for Heterogeneous Services in RINA Networks with ΔQ |
-| 11:25 - 11:50 | Masaharu Shimizu, Yasuhiro Watashiba, Susumu Date and Shinji Shimojo. Adaptive Network Resource Reallocation for Hot-spot Avoidance on SDN-based Cluster System |
-| 11:50 - 12:15 | Giovanni Fioccola, Pasquale Donadio, Roberto Canonico and Giorgio Ventre. Dynamic Routing and Virtual Machine Consolidation in Green Clouds |
-| 12:15 - 12:25 | Workshop Wrap-up                                                        |
+| 11:00&nbsp;-&nbsp;11:25 | Sergio Leon Gaixas, Jordi Perelló, Davide Careglio, Eduard Grasa, Miquel Tarzan-Lorente, Neil J. Davies and Peter Thompson. Assuring QoS Guarantees for Heterogeneous Services in RINA Networks with ΔQ |
+| 11:25&nbsp;-&nbsp;11:50 | Masaharu Shimizu, Yasuhiro Watashiba, Susumu Date and Shinji Shimojo. Adaptive Network Resource Reallocation for Hot-spot Avoidance on SDN-based Cluster System |
+| 11:50&nbsp;-&nbsp;12:15 | Giovanni Fioccola, Pasquale Donadio, Roberto Canonico and Giorgio Ventre. Dynamic Routing and Virtual Machine Consolidation in Green Clouds |
+| 12:15&nbsp;-&nbsp;12:25 | Workshop Wrap-up                                                        |
 
 [38]: mailto:eduard.escalona(at)i2cat.net
 [39]: mailto:sonja.filiposka(at)finki.ukim.mk
