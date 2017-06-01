@@ -1,9 +1,9 @@
 ---
 title: The 7th NetCloud2017 Workshop as part of IEEE CloudCom 2017 Conference, Hong Kong
 ---
-#### CYCLONE will co-organise the &th NetCloud2017 Workshop as part of IEEE CloudCom2017 Conference
+#### CYCLONE and GEANT4 projects will co-organise the 7th NetCloud2017 Workshop as part of the IEEE CloudCom2017 Conference
 
-CYCLONE will co-organise the Seventh IEEE International Workshop on Network Infrastructure Services 
+CYCLONE and GEANT4 project will co-organise the Seventh IEEE International Workshop on Network Infrastructure Services 
 (NetCloud 2017)
 that will be colocated with the IEEE CloudCom 2017 Conference on Hong Kong, December 11-14, 2017 
 (<http://2017.cloudcom.org/>)
