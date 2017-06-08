@@ -2,7 +2,7 @@ Component,Claim,Partner,License,Repository,Homepage,Logo
 Main components,The heart of the CYCLONE stack,,,,,
 Slipstream,"Deploy, Scale, and manage your (multi-)cloud applications effortlessly",SixSq Sàrl,Apache 2,https://github.com/SlipStream,http://sixsq.com/products/slipstream.html,yes
 OpenNaaS Core,Gain full control over your infrastructure using Software-defined Networking (SDN),Fundació i2CAT,GPLv3,https://github.com/dana-i2cat/opennaas,http://opennaas.org/,yes
-OpenNaaS Extensions,See what other users are contributing to OpenNaaS,OpenNaaS Community,Apache 2,https://github.com/dana-i2cat/opennaas,http://opennaas.org/partners/
+OpenNaaS Extensions,See what other users are contributing to OpenNaaS,OpenNaaS Community,Apache 2,https://github.com/dana-i2cat/opennaas,http://opennaas.org/partners/,
 CYCLONE Networking Services Manager and Orchestrator - CNSMO,Integrate network services into your cloud applications using our ready-to-deploy modules in an automated way.,i2CAT,GPLv3,https://github.com/dana-i2cat/cnsmo,,
 CYCLONE Federation Provider,Use federated identities without the complexity,TU Berlin,Apache 2,https://github.com/cyclone-project/cyclone-federation-provider,,
 CYCLONE Distributed Logging,Unify log messages from distributed applications,TU Berlin,Apache 2,https://github.com/cyclone-project/cyclone-logging,,
