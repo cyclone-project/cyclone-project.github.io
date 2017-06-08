@@ -17,6 +17,6 @@ CYCLONE network scripts,Use our scripts to automate network configuration,CNRS L
 CYCLONE data erasure scripts,Create ephemeral VMs,CNRS LAL,GPLv3,https://github.com/cyclone-project/data-erasure,,
 Demo applications,Learning material and blueprints,,,,,
 CYCLONE Wordpress demo,See how easy it is to use Wordpress with federated identities,TU Berlin,GPLv2,https://github.com/cyclone-project/cyclone-demo-wp-docker,,
-CYCLONE Django demo,Lern how to use federated identities with Django,CNRS IFB,BSD,https://github.com/cyclone-project/cyclone-federation-provider-apache-oidc-django-demo,,
-Apache OpenID Connect,Let Apache use federated identities,CNRS IFB,Apache 2,https://github.com/cyclone-project/cyclone-federation-provider-apache-oidc-demo,,
+CYCLONE Django demo,Learn how to use federated identities with Django,CNRS IFB,BSD,https://github.com/cyclone-project/cyclone-federation-provider-apache-oidc-django-demo,,
+Dockerized filtering web proxy using OpenID Connect,Apache filter web access based on the federated identities,CNRS IFB,Apache 2,https://github.com/cyclone-project/federated-filtering-proxy-with-docker,,
 CYCLONE example deployment,See all our components in action,TU Berlin,-,https://github.com/cyclone-project/cyclone-example-deploy,,
