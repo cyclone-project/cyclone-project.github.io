@@ -1,7 +1,7 @@
 # cyclone-website
 CYCLONE Project Website
 
-How to publish (final) deliverables:
+# How to publish (final) deliverables:
 
 1st. The PDF and PNG files must be uploaded to "assets/images/deliverables/" and should have the same name as specified in "_data/deliverables.csv".
 
