@@ -12,9 +12,9 @@ D3.3,WP3,Final Evaluation of Use Cases,2017-10-31,
 D3.4,WP3,Business Plans and Potential Market,2017-11-30,
 D3.5,WP3,Overview of Implemented Use Cases,2017-12-29,
 D4.1,WP4,Security infrastructure specification and initial implementation,2015-12-31,done
-D4.2,WP4,Multi-cloud security,2016-12-30,
+D4.2,WP4,Multi-cloud security,2016-12-30,done
 D4.3,WP4,CYCLONE secure action and resource models,2015-12-31,done
-D4.4,WP4,Consolidated CYCLONE secure action and resource models,2016-12-30,
+D4.4,WP4,Consolidated CYCLONE secure action and resource models,2016-12-30,done
 D4.5,WP4,Final CYCLONE secure action and resource models,2017-12-29,
 D5.1,WP5,Functional specification of the E2E Network service model,2015-07-31,done
 D5.2,WP5,Specification of network management and service abstraction,2016-03-31,done
@@ -26,4 +26,4 @@ D6.4,WP6,"Summary of Provided Brokering, Deployment, and Management Features",20
 D7.1,WP7,Description of testbed,2015-07-31,done
 D7.2,WP7,Overlay with focus on component manager,2015-10-30,done
 D7.3,WP7,Overlay with focus on resource manager and SDN,2016-04-29,confidential
-D7.4,WP7,Inclusion of features asked by developers,2017-06-30,
+D7.4,WP7,Inclusion of features asked by developers,2017-12-31,
