@@ -76,7 +76,7 @@ To be confirmed.
 
 To be available since September 2017.
                                    
-[37[: https://easychair.org/cfp/netcloud2017
+[37]: https://easychair.org/cfp/netcloud2017
 [38]: mailto:eduard.escalona(at)i2cat.net
 [39]: mailto:sonja.filiposka(at)finki.ukim.mk
 [40]: mailto:p.grosso(at)uva.nl
