@@ -33,7 +33,7 @@ Camera-ready version:  September 22nd, 2017
 
 ### Submissions
 
-Submitted papers must not substantially overlap papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings. Authors must submit their papers by the deadline indicated above, using the Easychair submission system available [HERE][37].
+Submitted papers must not substantially overlap papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings. Authors must submit their papers by the deadline indicated above, using the Easychair submission system available [HERE][1].
 
 Only PDF files will be accepted. Manuscripts need to be prepared according to the IEEE Transactions format. All regular paper submissions should be written in English with a maximum paper length of 6 (six) pages. All submitted papers will be reviewed by at least three experts.
 
@@ -44,10 +44,10 @@ Accepted papers **must be presented** at the workshop. At least one author of ea
 {:.table}
 | Name                  | Institute                          | Country         |
 | --------------------- | ---------------------------------- | --------------- |
-| [Eduard Escalona][38] | I2CAT                              | Spain           |
-| [Sonja Filiposka][39] | Ss. Cyril and Methodius University | Macedonia       |
-| [Paola Grosso][40]    | University of Amsterdam            | The Netherlands |
-| [Yuri Demchenko][41]  | University of Amsterdam            | The Netherlands |
+| [Eduard Escalona][2]  | Fundació i2CAT                     | Spain           |
+| [Sonja Filiposka][3]  | Ss. Cyril and Methodius University | Macedonia       |
+| [Paola Grosso][4]     | University of Amsterdam            | The Netherlands |
+| [Yuri Demchenko][5]   | University of Amsterdam            | The Netherlands |
 
 ### Program Committee
 
@@ -76,8 +76,8 @@ To be confirmed.
 
 To be available since September 2017.
                                    
-[37]: https://easychair.org/cfp/netcloud2017
-[38]: mailto:eduard.escalona(at)i2cat.net
-[39]: mailto:sonja.filiposka(at)finki.ukim.mk
-[40]: mailto:p.grosso(at)uva.nl
-[41]: mailto:y.demchenko(at)uva.nl
+[1]: https://easychair.org/cfp/netcloud2017
+[2]: mailto:eduard.escalona(at)i2cat.net
+[3]: mailto:sonja.filiposka(at)finki.ukim.mk
+[4]: mailto:p.grosso(at)uva.nl
+[5]: mailto:y.demchenko(at)uva.nl
