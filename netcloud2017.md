@@ -28,7 +28,7 @@ NetCloud 2017, collocated with IEEE CloudCom 2017, attempts to address the probl
 
 ### Important Dates
 
-Paper submission:    August 14th, 2017                                      
+Paper submission:    August 20th, 2017                                      
 Camera-ready version:  September 22nd, 2017                                   
 
 ### Submissions
@@ -75,7 +75,7 @@ To be confirmed.
 
 ### Workshop Programme 
 
-To be available since Septembr 2017.
+To be available since September 2017.
                                    
 
 [38]: mailto:eduard.escalona(at)i2cat.net
