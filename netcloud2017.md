@@ -70,7 +70,6 @@ To be confirmed.
 | Giada Landi            | Nextworks                            | Italy           |
 | Mathias Slawik         | TU Berlin                            | Germany         |
 | Salvatore Spadaro      | Universitat Politecnica de Catalunya | Spain           |
-| Begüm Ilke Zilci       | TU Berlin                            | Germany         |
 
 ### Workshop Programme 
 
