@@ -33,7 +33,7 @@ Camera-ready version:  September 22nd, 2017
 
 ### Submissions
 
-Submitted papers must not substantially overlap papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings. Authors must submit their papers by the deadline indicated above, using the Easychair submission system available on the following URL: [To be announced soon] .
+Submitted papers must not substantially overlap papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings. Authors must submit their papers by the deadline indicated above, using the Easychair submission system available on the following URL: https://easychair.org/cfp/netcloud2017
 
 Only PDF files will be accepted. Manuscripts need to be prepared according to the IEEE Transactions format. All regular paper submissions should be written in English with a maximum paper length of 6 (six) pages. All submitted papers will be reviewed by at least three experts.
 
