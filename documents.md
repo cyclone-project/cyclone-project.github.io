@@ -35,7 +35,7 @@ title: Documents
 * Compliance and Security - Existing Standards and Recommendations
 
 {:.preview}
-[![Second Newsletter](/assets/images/newsletters/CYCLONE Newsletter second edition.png)](/assets/images/newsletters/CYCLONE Newsletter second edition.pdf)
+[![Third Newsletter](/assets/images/newsletters/CYCLONE Newsletter second edition.png)](/assets/images/newsletters/CYCLONE Newsletter second edition.pdf)
 
 <h2 id="newsletter-third">CYCLONE Highlights 2015-2016<small>Newsletter #3 - Q2 2017</small></h2>
 
