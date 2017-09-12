@@ -14,7 +14,7 @@ title: Documents
 
 # Newsletters
 
-<h2 id="newsletter-first">Project overview<small>Newsletter #1 - Q1 2016</small></h2>
+<h2 id="newsletter-first">Project overview<small> Newsletter #1 - Q1 2016</small></h2>
 
 {:.lead}
 * CYCLONE in a Nutshell
@@ -25,7 +25,7 @@ title: Documents
 {:.preview}
 [![First Newsletter](/assets/images/newsletters/CYCLONE Newsletter first edition.png)](/assets/images/newsletters/CYCLONE Newsletter first edition.pdf)
 
-<h2 id="newsletter-second">Security and compliance within CYCLONE<small>Newsletter #2 - Q3 2016</small></h2>
+<h2 id="newsletter-second">Security and compliance within CYCLONE <small> Newsletter #2 - Q3 2016</small></h2>
 
 {:.lead}
 * CYCLONE Bioinformatics Use Cases and Security
@@ -37,12 +37,13 @@ title: Documents
 {:.preview}
 [![Second Newsletter](/assets/images/newsletters/CYCLONE Newsletter second edition.png)](/assets/images/newsletters/CYCLONE Newsletter second edition.pdf)
 
-<h2 id="newsletter-third">CYCLONE Highlights 2015-2016<small>Newsletter #3 - Q2 2017</small></h2>
+<h2 id="newsletter-third">CYCLONE Highlights <small> Newsletter #3 - Q1 2017</small></h2>
 
 {:.lead}
 * Application Performance Management for Multi-Cloud CYCLONE Environment
 * SlipStream Components for Auto-scaling: Architecture
 * Compliance Analysis for Bioinformatics Applications in CYCLONECYCLONE Bioinformatics Use Cases and Security
+
 {:.preview}
 [![Third Newsletter](/assets/images/newsletters/newsletter3small.png)](/assets/images/newsletters/CYCLONE_Newsletter_3_v1.0.pdf)
 
