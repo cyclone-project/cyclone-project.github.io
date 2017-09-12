@@ -37,14 +37,14 @@ title: Documents
 {:.preview}
 [![Second Newsletter](/assets/images/newsletters/CYCLONE Newsletter second edition.png)](/assets/images/newsletters/CYCLONE Newsletter second edition.pdf)
 
-<h2 id="newsletter-second">CYCLONE Highlights 2015-2016<small>Newsletter #3 - Q2 2017</small></h2>
+<h2 id="newsletter-third">CYCLONE Highlights 2015-2016<small>Newsletter #3 - Q2 2017</small></h2>
 
 {:.lead}
 * Application Performance Management for Multi-Cloud CYCLONE Environment
 * SlipStream Components for Auto-scaling: Architecture
 * Compliance Analysis for Bioinformatics Applications in CYCLONECYCLONE Bioinformatics Use Cases and Security
 {:.preview}
-[![Second Newsletter](/assets/images/newsletters/CYCLONE Newsletter second edition.png)](/assets/images/newsletters/CYCLONE_Newsletter_3_v1.0.pdf)
+[![Second Newsletter](/assets/images/newsletters/newsletter#3.png)](/assets/images/newsletters/CYCLONE_Newsletter_3_v1.0.pdf)
 
 
 # Posters
