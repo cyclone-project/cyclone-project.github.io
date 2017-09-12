@@ -44,7 +44,7 @@ title: Documents
 * SlipStream Components for Auto-scaling: Architecture
 * Compliance Analysis for Bioinformatics Applications in CYCLONECYCLONE Bioinformatics Use Cases and Security
 {:.preview}
-[![Third Newsletter](/assets/images/newsletters/newsletter3.png)](/assets/images/newsletters/CYCLONE_Newsletter_3_v1.0.pdf)
+[![Third Newsletter](/assets/images/newsletters/newsletter3small.png)](/assets/images/newsletters/CYCLONE_Newsletter_3_v1.0.pdf)
 
 
 # Posters
