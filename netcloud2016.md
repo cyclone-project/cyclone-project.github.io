@@ -73,6 +73,7 @@ Accepted papers **must be presented** at the workshop. At least one author of ea
 | Emmanouil Kafetzakis   | NCSR DEMOKRITOS                      | Greece          |
 | Kostas Katsalis        | Eurecom                              | France          |
 | Giada Landi            | Nextworks                            | Italy           |
+| Marc Makkes            | Vrij Universiteit Amsterdam          | The Netherlands |
 | Mathias Slawik         | TU Berlin                            | Germany         |
 | Salvatore Spadaro      | Universitat Politecnica de Catalunya | Spain           |
 | Begüm Ilke Zilci       | TU Berlin                            | Germany         |
