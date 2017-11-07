@@ -33,3 +33,8 @@ You can tryout **SlipStream** through the [Nuvla Online Deployment Platform](htt
 ## Testdrive the Open Service Compendium
 
 While still in early alpha, the latest development version is always deployed under [http://dev.open-service-compendium.org/#/](http://dev.open-service-compendium.org/#/).
+
+## Check out the [CYCLONE One-Click-Demo](http://demo.cyclone-project.eu)
+
+It includes the [Cyclone Federation Provider](http://demo.cyclone-project.eu/auth) with a DemoIDP, the [Cyclone Logging System](http://demo.cyclone-project.eu/kibana) and a [demo Wordpress](http://demo.cyclone-project.eu/). Go to the [Github repository](https://github.com/cyclone-project/oneclickdemo) for more information and check it out at [http://demo.cyclone-project.eu](http://demo.cyclone-project.eu) or visit the components individually by following the links above.
+
