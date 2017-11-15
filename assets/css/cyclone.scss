@@ -525,6 +525,26 @@ h1 + h2, h2 + h3 {
   }
 }
 
+.demo-img {
+	background: white;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	color: #333;
+	text-align: center !important;
+	padding: 0 0 10px 0;
+
+	img {
+		width: 100%;
+		height: auto;
+		margin-bottom: 10px;
+	}
+
+	p {
+		color: black;
+		text-align: center !important;
+		padding: 0 0 10px 10px;
+	}
+}
+
 p.preview, p.previewlink {
   text-align: center !important;
 
