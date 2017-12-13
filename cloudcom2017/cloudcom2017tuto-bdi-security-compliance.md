@@ -5,7 +5,7 @@ title: CloudCom 2017 Turorial - Cloud and Big Data Infrastructure Security and C
 
 ### CloudCom 2017 Turorial - Cloud and Big Data Infrastructure Security and Compliance 
 
-<http://www.cyclone-project.eu/cloudcom2017tuto-bdi-security-compliance.html>
+<http://www.cyclone-project.eu/cloudcom2017/cloudcom2017tuto-bdi-security-compliance.html>
 
 As part of the CloudCom Conference 2017 (CloudCom2017)
 <http://2017.cloudcom.org/> <br>
