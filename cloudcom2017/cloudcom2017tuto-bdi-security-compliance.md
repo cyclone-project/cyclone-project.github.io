@@ -1,18 +1,18 @@
 ---
-title: BDIC 2016 Workshop - Evaluating Security and Compliance of the Outsourced Cloud based Big Data Infrastructures 
+title: CloudCom 2017 Turorial - Cloud and Big Data Infrastructure Security and Compliance 
 ---
 
 
-### BDIC 2016 Workshop - Evaluating Security and Compliance of the Outsourced Cloud based Big Data Infrastructures 
+### CloudCom 2017 Turorial - Cloud and Big Data Infrastructure Security and Compliance 
 
-<http://www.cyclone-project.eu/bdic2016wsh-bdi-security-compliance.html>
+<http://www.cyclone-project.eu/cloudcom2017tuto-bdi-security-compliance.html>
 
-As part of the Big Data Innovation Conference 2016 (BDIC2016)
-<https://pgsolx.com/BDIC/> <br>
-November 16 - 17, 2016, Frankfurt, Germany
+As part of the CloudCom Conference 2017 (CloudCom2017)
+<http://2017.cloudcom.org/> <br>
+December 11 - 14, 2017, Hong Kong
 
 Download: <br>
-Workshop slides  <http://www.uazone.org/demch/academic/bigdata/bdi2016workshop-big-data-security-compliance-v02.pdf>
+Workshop slides  <http://www.uazone.org/demch/academic/bigdata/cloudcom2017tuto-big-data-security-compliance-v01.pdf>
 <br>Workshop HOL files  <http://www.uazone.org/demch/academic/bigdata/bdi2016wsh-cloud-compliance-csa-pci-dss-hol.zip>
 
 ### Summary
