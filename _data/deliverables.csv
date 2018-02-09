@@ -2,23 +2,23 @@ id,wp,name,date,state
 D2.1,WP2,Branding Strategy,2015-02-27,done
 D2.2,WP2,Dissemination and Communication Plan,2015-03-31,done
 D2.3,WP2,Updated Dissemination and Communication Plan,2015-11-30,done
-D2.4,WP2,Final Dissemination and Communication Plan,2016-11-30,
+D2.4,WP2,Final Dissemination and Communication Plan,2016-11-30,done
 D2.5,WP2,Dissemination Report - Year 1,2015-12-31,done
 D2.6,WP2,Dissemination Report - Year 2,2016-12-30,done
 D2.7,WP2,Dissemination Report - Final,2017-11-30,done
 D3.1,WP3,Evaluation of Use Cases,2015-10-30,done
 D3.2,WP3,Consolidated Evaluation of Use Cases,2017-01-17,done
 D3.3,WP3,Final Evaluation of Use Cases,2017-10-31,done
-D3.4,WP3,Business Plans and Potential Market,2017-11-30,
-D3.5,WP3,Overview of Implemented Use Cases,2017-12-29,
+D3.4,WP3,Business Plans and Potential Market,2017-11-30,done
+D3.5,WP3,Overview of Implemented Use Cases,2017-12-29,done
 D4.1,WP4,Security infrastructure specification and initial implementation,2015-12-31,done
 D4.2,WP4,Multi-cloud security,2016-12-30,done
 D4.3,WP4,CYCLONE secure action and resource models,2015-12-31,done
 D4.4,WP4,Consolidated CYCLONE secure action and resource models,2016-12-30,done
-D4.5,WP4,Final CYCLONE secure action and resource models,2017-12-29,
+D4.5,WP4,Final CYCLONE secure action and resource models,2017-12-29,done
 D5.1,WP5,Functional specification of the E2E Network service model,2015-07-31,done
 D5.2,WP5,Specification of network management and service abstraction,2016-03-31,done
-D5.3,WP5,Cloud federation Network Service delivery and integration,2017-12-29,
+D5.3,WP5,Cloud federation Network Service delivery and integration,2017-12-29,done
 D6.1,WP6,Complex Application Description Specification,2015-06-30,done
 D6.2,WP6,"Specification of Interfaces for Brokering, Deployment, and Management",2015-08-31,done
 D6.3,WP6,Solutions for Non-functional Aspects of Cloud Computing,2016-09-30,done
@@ -26,4 +26,4 @@ D6.4,WP6,"Summary of Provided Brokering, Deployment, and Management Features",20
 D7.1,WP7,Description of testbed,2015-07-31,done
 D7.2,WP7,Overlay with focus on component manager,2015-10-30,done
 D7.3,WP7,Overlay with focus on resource manager and SDN,2016-04-29,confidential
-D7.4,WP7,Inclusion of features asked by developers,2017-12-31,
+D7.4,WP7,Inclusion of features asked by developers,2017-12-31,confidential
