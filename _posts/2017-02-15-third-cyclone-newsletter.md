@@ -1,5 +1,5 @@
 ---
-title: The THird CYCLONE Newsletter published 
+title: The Third CYCLONE Newsletter published 
 teaser: Explore the CYCLONE development on the major components of the multi-cloud applications development platform.
 ---
 
